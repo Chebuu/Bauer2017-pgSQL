@@ -1,0 +1,11 @@
+- Ensure all mat. views are subsetted by cohort.icustay_id
+    - Speed improvements are likely possible in most queries
+      if the query subsets by cohort.icustay_id early
+- Ensure MIMIC-III categories match Bauer2017 categories
+    - Example: Are the levels in ADMISSIONS.ADMISSION_TYPE the same as  
+      the sub-sections under "Type of admission" from Table 1 in 
+      Bauer2017? 
+      - If not, any query extracting this information from the
+        database will need to be refactored
+      - Alternatively, the table can be recreated via R scripts, but 
+        this should be avoided for organizational puposes

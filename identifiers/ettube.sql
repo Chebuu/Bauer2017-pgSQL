@@ -1,0 +1,89 @@
+-----------------------------
+-- ENDOTRACHEAL INTUBATION --
+-----------------------------
+SELECT itemid, label
+FROM d_items
+WHERE label ILIKE ANY(ARRAY['%endo%tra%','%ett%','%tub%'])
+ORDER BY itemid
+
+-- 157	    ETT [Mark]
+-- 158	    ETT Position Change
+-- 182	    Extubation Date
+-- 418	    Intubation Date
+-- 1852	    ETT rotation
+-- 3398	    ETT (Re)Taped
+-- 3399	    ETT Changed
+-- 3400	    ETT Size
+-- 3401	    ETT Sx Color
+-- 3402	    ETT Sx Quality
+-- 3403	    ETT Sx Quantity
+-- 3404	    ETT Taped at (cm)
+-- 8382	    ETT [Location]
+-- 43851	ETT out
+-- 222871	Mallampati classification (Intubation)
+-- 223059	Intubation - Details
+-- 223837	ETT Size (ID)
+-- 223838	ETT Location
+-- 223840	ETT Re-taped
+-- 224385	Intubation
+-- 224391	ETT Mark (location)
+-- 224392	ETT Position Change
+-- 224415	ETT Mark (cm)
+-- 224832	ETT Type
+-- 225267	Difficult to Intubate
+-- 225271	Induction/Drugs/Doses (Intubation)
+-- 225277	ETT Position (cm at teeth)
+-- 225278	ETT Route
+-- 225291	Indication (Intubation)
+-- 225292	Unable to complete Airway Assessment (Intubation)
+-- 225294	Mouth Opening (Intubation)
+-- 225295	Thyromental Distance (Intubation)
+-- 225296	Mandibular Prognatism (Intubation)
+-- 225297	Teeth/Dentition (Intubation)
+-- 225298	Neck ROM (Intubation)
+-- 225300	No Drugs Administered (Intubation)
+-- 225301	RSI (Intubation)
+-- 225302	Pre-Oxygentated (Intubation)
+-- 225303	Mask Ventilation (Intubation)
+-- 225304	Blade / Equipment (Intubation)
+-- 225306	Number of Attempts (Intubation)
+-- 225307	Oral ETT
+-- 225308	Nasal ETT
+-- 225468	Unplanned Extubation (patient-initiated)
+-- 225477	Unplanned Extubation (non-patient initiated)
+-- 225585	ETT Depth (Intubation)
+-- 225586	Stylette (Intubation)
+-- 225587	Bougie (Intubation)
+-- 225588	Tube Secured (Intubation)
+-- 225590	Tracheal Confirmation (Intubation)
+-- 225592	ETT Size (Intubation)
+-- 225593	Best Larynx View Obtained (Intubation)
+-- 226166	No Complications (Intubation)
+-- 226188	Timeout Performed by (Intubation)
+-- 226189	Patient identified correctly by 2 means (Intubation)
+-- 226190	Hand Cleansing prior to procedure (Intubation)
+-- 226191	Barrier precautions in place (Intubation)
+-- 226429	ETT Type (Intubation)
+-- 226430	Complications (Intubation)
+-- 226431	Verification of (Intubation)
+-- 226432	Drugs (Intubation)
+-- 226814	Known difficult intubation
+-- 227021	Intubated_ApacheIV
+-- 227194	Extubation
+-- 227210	Propofol (Intubation)
+-- 227211	Ketamine (Intubation)
+-- 227212	Etomidate (Intubation)
+-- 227213	Vecuronium (Intubation)
+-- 227214	Cis-atracurium (Intubation)
+-- 227215	Succynlocholine (Intubation)
+-- 227809	ETT Position Change
+-- 227810	ETT Re-taped
+-- 228065	Hand Cleansing prior to procedure (Intubation)
+-- 228066	Unable to complete Airway Assessment (Intubation)
+-- 228067	Stylette (Intubation)
+-- 228068	Bougie (Intubation)
+-- 228069	Tube Secured (Intubation)
+-- 228070	The Attending/Supervisor is the Clinical Operator (Intubation)
+-- 228071	I was present during the above procedure and agree with the checklist (Intubation)
+-- 228112	GCSVerbalApacheIIValue (intubated)
+-- 228643	Barrier precautions in place (Intubation)
