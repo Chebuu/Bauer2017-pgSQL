@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION id_label (tab text, id int[])
+CREATE OR REPLACE FUNCTION id_label (tab text, ids int[])
 RETURNS text[] AS $idmatch$
 DECLARE labels text[];
 BEGIN

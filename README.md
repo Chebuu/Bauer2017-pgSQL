@@ -7,7 +7,7 @@ This repo is intended to serve as a sub-module and central resource for PL/pgSQL
 Bauer PR, Gajic O, Nanchal R, Kashyap R, Martin-Loeches I, Sakr Y, et al. Association between timing of intubation and outcome in critically ill patients: A secondary analysis of the ICON audit. Journal of Critical Care. 2017;42: 1–5. doi:10.1016/j.jcrc.2017.06.010  
 
 
-## Parent Repositories
-The following repositories make use of these scripts:  
+## Dependent Repos
+The following repositories depend on this repository as a sub-module:  
 - [Bauer2017](https://github.com/chebuu/Bauer2017)
 - [Timing-Intubation](https://github.com/chebuu/Timing-Intubation)
