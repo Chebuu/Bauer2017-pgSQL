@@ -49,7 +49,7 @@ WITH int_cev AS (
                 cev.itemid IN (157, 3400, 224415, 223837, 223838, 3404, 3401, 3402, 3403, 1852, 158) -- D_ITEMS.label = ['ETT Location', 'ETT [MARK]', 'ETT Mark (cm)', 'ETT Size', 'ETT Location', 'ETT Size (ID)', 'ETT Taped at (cm)', 'ETT Sx Color', 'ETT Sx Quality', 'ETT Sx Quantity', 'ETT Rotation', 'ETT Position Change']
                     AND cev.value IS NOT NULL
                     AND cev.value NOT LIKE ANY(
-                        ARRAY('e', 'P', 'Stoma', 'Nasal-L', 'Nasal-R', 'Not applicable') -- ARRAY(..., 'Comment', 'Other/Remarks')
+                        ARRAY['e', 'P', 'Stoma', 'Nasal-L', 'Nasal-R', 'Not applicable'] -- ARRAY(..., 'Comment', 'Other/Remarks')
                     )
                 
             ) 
