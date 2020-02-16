@@ -1,3 +1,7 @@
+-- TODO:: 
+-- Would be much faster if each view were created by querying the cohort 
+-- instead of the entire MIMIC-III database.
+
 -- Adpated from: https://github.com/MIT-LCP/mimic-code/blob/master/concepts/severityscores/sapsii.sql
 
 -- ------------------------------------------------------------------
