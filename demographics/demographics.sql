@@ -1,7 +1,5 @@
 -- TODO::
--- -- Subset by cohort patients
--- -- Ensure MIMIC-III categories match Bauer2017 categories
--- -- Need to refactor age to account for randomization above age 89
+-- -- Refactor age to account for randomization above age 89
 -- -- -- -- See https://mimic.physionet.org/mimictables/patients/#important%20considerations
 
 -- Adapted from: https://github.com/MIT-LCP/mimic-code/blob/master/concepts/demographics/icustay-detail.sql

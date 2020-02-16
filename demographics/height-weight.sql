@@ -1,6 +1,3 @@
--- TODO::
--- -- Improve speed by subsetting cohort patients early ?
-
 -- Adapted from: https://github.com/MIT-LCP/mimic-code/blob/master/concepts/demographics/heightweight.sql
 
 -- ------------------------------------------------------------------

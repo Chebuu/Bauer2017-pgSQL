@@ -79,8 +79,6 @@
 --      - [ ] HIV infection
               042 Human immunodeficiency virus [HIV] disease
 --      - [ ] Cirrhosis
-
-Code(s)	 	Description
               571 Chronic liver disease and cirrhosis
                   571.0  	 	Alcoholic fatty liver
                   571.1  	 	Ac alcoholic hepatitis
@@ -92,11 +90,32 @@ Code(s)	 	Description
                   571.8  	 	Chronic liver dis NEC
                   571.9  	 	Chronic liver dis NOS
 --      - [ ] Immunosuppression
+              https://doi.org/10.1007/s10552-005-0502-4
+              288.0 Neutropenia
+              Immunity deficiency NOS. ICD-9-CM 279.3
+              History (personal) of immunosuppression therapy V87.46
+              immunosuppression V87.46
 --      - [ ] Steroid therapy
+              steroid V87.45
+                  inhaled V87.44
+                  systemic V87.45
 --      - [ ] Chemotherapy
+              https://doi.org/10.1007/s10552-005-0502-4
+              ICD-9 diagnosis codes
+                V58.1, V66.2 and V67.2, the ICD-9 
+              ICD-9 procedure code 99.25
+              DRG code 410 
+              HCPCS codes for chemotherapy
+                (Q0083–Q0085, J7150, J9000–J9999, 96400, 96408, 96410, 96412, 96414, 96545) as well as
+              relevant revenue center codes 
+                (0331, 0332, and 0335)
 --      - [ ] Renal replacement therapy on admission
+              Subset rrt.sql 
 --      - [ ] Sepsis on admission
-
+              Subset/augment explicit.sql
+              Subset/augment martin.sql
+              Subset/augment angus.sql
+              Subset/augment sirs.sql
 DROP MATERIALIZED VIEW IF EXISTS comorbidities CASCADE;
 CREATE MATERIALIZED VIEW comorbidities as
 
