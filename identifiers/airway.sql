@@ -11,9 +11,7 @@ ORDER BY itemid
 40,     -- Airway Type
 141,    -- Cuff Pressure-Airway
 444,    -- Mean Airway Pressure
-1209,   -- HFO mean airway Pres
-1864,   -- HFO-Max mean airway
-1865,   -- HFO-Min mean airway
+
 223836, -- Airway Type
 224697, -- Mean Airway Pressure
 226815, -- Airway problems

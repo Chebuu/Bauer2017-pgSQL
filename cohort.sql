@@ -35,6 +35,7 @@ WITH int_cev AS (
         , MIN(storetime) as min_store
     FROM chartevents cev
     WHERE   (cev.itemid = 226732 AND cev.value = 'Endotracheal tube') -- D_ITEMS.label = 'O2 Delivery Device(s)'
+        -- OR (469) -- O2 Delivery Mode
         OR  (cev.itemid = 223900 AND cev.value = 'No Response-ETT')
         OR  (cev.itemid = 723 and cev.value = '1.0 ET/Trach')
         OR  (cev.itemid = 40 AND cev.value = 'Endotracheal') -- D_ITEMS.label = 'Airway Type'

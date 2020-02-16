@@ -129,19 +129,7 @@ ORDER BY itemid
 220293	Minute Volume Alarm - High
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+-- Below items not filtered 
 
 
 449	Minute Volume (Set)

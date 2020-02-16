@@ -13,3 +13,6 @@
 1206	HFO FIO2:
 1863	HFO-FiO2
 2518	HFO- FIO2
+1209,   -- HFO mean airway Pres
+1864,   -- HFO-Max mean airway
+1865,   -- HFO-Min mean airway
