@@ -3,7 +3,25 @@
 ## About
 This repo is intended to serve as a sub-module and central resource for PL/pgSQL queries against the MIMIC-III v1.4 database that can be used to replicate the dataset from:    
 
-Bauer PR, Gajic O, Nanchal R, Kashyap R, Martin-Loeches I, Sakr Y, et al. Association between timing of intubation and outcome in critically ill patients: A secondary analysis of the ICON audit. Journal of Critical Care. 2017;42: 1–5. doi:10.1016/j.jcrc.2017.06.010  
+[Bauer PR, Gajic O, Nanchal R, Kashyap R, Martin-Loeches I, Sakr Y, et al. *Association between timing of intubation and outcome in critically ill patients: A secondary analysis of the ICON audit.* Journal of Critical Care. 2017;42: 1–5. doi:10.1016/j.jcrc.2017.06.010](http://doi.org/10.1016/j.jcrc.2017.06.010)
+
+## Build Instructions
+Included is a Makefile with targets to build the dataset using GNU Make. 
+
+All build targets require that the following Bash environment variables be set:
+
+```bash
+export PGHOST=127.0.0.1
+export PGPORT=5432
+export PGOPTIONS=--search_path=mimiciii
+```
+To build and export the dataset run the following target. The resulting .csv files are saved in the **data/cohort-build** directory:
+
+```bash
+make all
+```
+
+The *all* target creates several intermediate materialized views that are required to build the dataset (see the **lib/** directory), however they are not exported to .csv files. The cohort subset is then built and exported as .csv (see **cohort.sql**). Patient IDs from the cohort subset are then used to build the features subsets (see the **clinical-features/**, **demographics/**, and **severity-scores/** directories).
 
 ## Dependent repos
 The following repositories depend on this repository as a sub-module:  
@@ -76,4 +94,3 @@ Directory and file names are meant to roughly correspond to the sections and sub
 - [ ] Hospital LOS, day, median [IQR]   
 - [ ] ICU mortality, n (%)  
 - [ ] Hospital mortality, n (%) 
-
