@@ -14,8 +14,8 @@ for fdir in ${FDIRS[@]}; do
     bdir=data/cohort-build/$fdir
     mkdir -p $bdir
     for sql in $(find $fdir -type f -iname "*.sql"); do
-        IO_ARGS[5]=$sql
-        IO_ARGS[6]=$bdir/$(basename $sql .sql).csv
+        IO_ARGS[4]=$sql
+        IO_ARGS[5]=$bdir/$(basename $sql .sql).csv
         while getopts "${IO_OPTS}:${LOG_OPTS}" flag; do
             for idx in ${!IO_FLAGS[@]}; do
                 if [ "${IO_FLAGS[$idx]}" = "$flag" ]; then
@@ -41,6 +41,6 @@ for fdir in ${FDIRS[@]}; do
 
         echo "Building features..."
         echo -e "\t$PGS_CMD"
-        eval "PGOPTIONS=$PGOPTIONS" $PGS_CMD
+        echo "PGOPTIONS=$PGOPTIONS" $PGS_CMD
     done
 done

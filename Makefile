@@ -7,7 +7,10 @@ views: lib/*.sql
 		-d "mimic" \
 
 features: clinical-features/*.sql demographics/*.sql severity-scores/*.sql
-	bash bin/build-features.sh 
+	bash bin/build-features.sh \
+		-h $(or $(PGHOST), false) \
+		-p $(or $(PGPORT), false) \
+		-d "mimic" 
 
 cohort: cohort.sql
 	make clean-log

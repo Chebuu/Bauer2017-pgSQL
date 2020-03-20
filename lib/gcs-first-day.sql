@@ -1,21 +1,19 @@
-
 -- ------------------------------------------------------------------
 -- File: gcs-first-day.sql
--- ITEMIDs used:
-
--- CAREVUE
+-- View: gcsfirstday
+-- Purpose:
+--  The code combines the ITEMIDs into the carevue itemids, then pivots those
+--  So 223900 is changed to 723, then the ITEMID 723 is pivoted to form GCSVerbal
+-- Details:
+--  ITEMIDs used:
+--  CAREVUE
 --    723 as GCSVerbal
 --    454 as GCSMotor
 --    184 as GCSEyes
-
--- METAVISION
+--  METAVISION
 --    223900 GCS - Verbal Response
 --    223901 GCS - Motor Response
 --    220739 GCS - Eye Opening
-
--- The code combines the ITEMIDs into the carevue itemids, then pivots those
--- So 223900 is changed to 723, then the ITEMID 723 is pivoted to form GCSVerbal
-
 -- Note:
 --  The GCS for sedated patients is defaulted to 15 in this code.
 --  This is in line with how the data is meant to be collected.
@@ -26,7 +24,7 @@
 -- ------------------------------------------------------------------
 
 DROP MATERIALIZED VIEW IF EXISTS gcsfirstday CASCADE;
-create materialized view gcsfirstday as
+CREATE MATERIALIZED VIEW gcsfirstday AS
 with base as
 (
   SELECT pvt.ICUSTAY_ID

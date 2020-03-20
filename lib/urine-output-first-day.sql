@@ -1,11 +1,12 @@
-
 -- ------------------------------------------------------------------
 -- File: urine-output-first-day.sql
--- Purpose: Create a view of the urine output for each ICUSTAY_ID over the first 24 hours.
+-- View: uofirstday
+-- Purpose: 
+--  Create a view of the urine output for each ICUSTAY_ID over the first 24 hours.
 -- ------------------------------------------------------------------
 
 DROP MATERIALIZED VIEW IF EXISTS uofirstday CASCADE;
-create materialized view uofirstday as
+CREATE MATERIALIZED VIEW uofirstday AS
 select
   -- patient identifiers
   ie.subject_id, ie.hadm_id, ie.icustay_id

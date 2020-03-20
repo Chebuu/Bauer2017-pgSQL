@@ -42,5 +42,4 @@ PGS_CMD=psql$(
 )
 
 echo "Exporting cohort..."
-
-eval "PGOPTIONS=$PGOPTIONS" $PGS_CMD -c '"COPY (select * from cohort) TO' "'$EXPORT_TO'" 'WITH CSV HEADER;"'
+echo "PGOPTIONS=$PGOPTIONS" $PGS_CMD -c '"COPY (select * from cohort) TO' "'$EXPORT_TO'" 'WITH CSV HEADER;"'

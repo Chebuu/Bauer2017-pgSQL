@@ -1,12 +1,13 @@
 -- ------------------------------------------------------------------
 -- File: labs-first-day.sql
+-- View: labsfirstday
 -- Purpose: 
--- This query pivots lab values taken in the first 24 hours of a patient's stay
--- Have already confirmed that the unit of measurement is always the same: null or the correct unit
+--  This query pivots lab values taken in the first 24 hours of a patient's stay
+--  Have already confirmed that the unit of measurement is always the same: null or the correct unit
 -- ------------------------------------------------------------------
 
 DROP MATERIALIZED VIEW IF EXISTS labsfirstday CASCADE;
-CREATE materialized VIEW labsfirstday AS
+CREATE MATERIALIZED VIEW labsfirstday AS
 SELECT
   pvt.subject_id, pvt.hadm_id, pvt.icustay_id
 

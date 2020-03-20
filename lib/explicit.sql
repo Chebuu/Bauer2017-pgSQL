@@ -1,10 +1,15 @@
+-- ------------------------------------------------------------------
+-- File: explicit.sql
+-- View: explicit_sepsis
+-- Purpose: 
 -- This code extracts explicit sepsis using ICD-9 diagnosis codes
 -- That is, the two codes 995.92 (severe sepsis) or 785.52 (septic shock)
 -- These codes are extremely specific to sepsis, but have very low sensitivity
 -- From Iwashyna et al. (vs. chart reviews): 100% PPV, 9.3% sens, 100% specificity
+-- ------------------------------------------------------------------
 
 DROP MATERIALIZED VIEW IF EXISTS explicit_sepsis CASCADE;
-CREATE MATERIALIZED VIEW explicit_sepsis as
+CREATE MATERIALIZED VIEW explicit_sepsis AS
 WITH co_dx AS
 (
 	SELECT hadm_id

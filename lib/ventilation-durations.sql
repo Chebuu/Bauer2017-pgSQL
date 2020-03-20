@@ -1,21 +1,20 @@
-
-
 -- ------------------------------------------------------------------
 -- File: ventilation-durations.sql
+-- View: ventsettings ventdurations
 -- Purpose: 
--- This query extracts the duration of mechanical ventilation
--- The main goal of the query is to aggregate sequential ventilator settings
--- into single mechanical ventilation "events". The start and end time of these
--- events can then be used for various purposes: calculating the total duration
--- of mechanical ventilation, cross-checking values (e.g. PaO2:FiO2 on vent), etc
-
--- The query's logic is roughly:
+--  This query extracts the duration of mechanical ventilation
+--  The main goal of the query is to aggregate sequential ventilator settings
+--  into single mechanical ventilation "events". The start and end time of these
+--  events can then be used for various purposes: calculating the total duration
+--  of mechanical ventilation, cross-checking values (e.g. PaO2:FiO2 on vent), etc
+-- Note:
+--  The query's logic is roughly:
 --    1) The presence of a mechanical ventilation setting starts a new ventilation event
 --    2) Any instance of a setting in the next 8 hours continues the event
 --    3) Certain elements end the current ventilation event
 --        a) documented extubation ends the current ventilation
 --        b) initiation of non-invasive vent and/or oxygen ends the current vent
--- The ventilation events are numbered consecutively by the `num` column.
+--  The ventilation events are numbered consecutively by the `num` column.
 -- ------------------------------------------------------------------
 
 -- First, create a temporary table to store relevant data from CHARTEVENTS.

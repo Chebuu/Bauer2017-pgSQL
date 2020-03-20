@@ -21,7 +21,7 @@ for fdir in ${FDIRS[@]}; do
     bdir=data/cohort-build/$fdir
     mkdir -p $bdir
     for sql in $(find $fdir -type f -iname "*.sql"); do
-        EXPORT_FROM=#Cannot use the file name, because mat. views have different names. Needs a fix.
+        EXPORT_FROM=$(awk '/CREATE MATERIALIZED VIEW/ {print $4}' $(abspath $sql))
         EXPORT_TO=$(abspath $bdir/$(basename $sql .sql).csv)
         while getopts "${IO_OPTS}:${LOG_OPTS}" flag; do
             for idx in ${!IO_FLAGS[@]}; do
@@ -35,7 +35,6 @@ for fdir in ${FDIRS[@]}; do
                 fi
             done
         done
-
         PGS_CMD=psql$(
             for i in ${!IO_FLAGS[@]}; do 
                 flag=${IO_FLAGS[$i]} 
@@ -45,8 +44,7 @@ for fdir in ${FDIRS[@]}; do
                 fi; 
             done
         )
-
         echo $(printf "Exporting %s..." $(basename $sql .sql))
-        echo "PGOPTIONS=$PGOPTIONS" $PGS_CMD -c '"COPY (select * from cohort) TO' "'$EXPORT_TO'" 'WITH CSV HEADER;"'
+        echo "PGOPTIONS=$PGOPTIONS" $PGS_CMD -c '"COPY (select * from '$EXPORT_FROM') TO' "'$EXPORT_TO'" 'WITH CSV HEADER;"'
     done
 done

@@ -9,8 +9,7 @@ IO_ARGS=(false false false "mimic" false)
 IO_OPTS=$(printf "%s:" ${IO_FLAGS[@]})
 
 for sql in $(find lib -type f -iname "*.sql"); do
-    IO_ARGS[5]=$sql
-    vname=$(basename $sql .sql)
+    IO_ARGS[4]=$sql
     while getopts "${IO_OPTS}:${LOG_OPTS}" flag; do
         for idx in ${!IO_FLAGS[@]}; do
             if [ "${IO_FLAGS[$idx]}" = "$flag" ]; then
@@ -34,7 +33,7 @@ for sql in $(find lib -type f -iname "*.sql"); do
         done
     )
 
-    echo "Building view ..."
+    echo "Building view..."
     echo -e "\t$PGS_CMD"
-    eval "PGOPTIONS=$PGOPTIONS" $PGS_CMD
+    echo "PGOPTIONS=$PGOPTIONS" $PGS_CMD
 done
