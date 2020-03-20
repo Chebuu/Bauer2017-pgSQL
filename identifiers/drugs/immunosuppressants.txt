@@ -1,0 +1,532 @@
+-- NDC Codes
+Radioactive phosphorus, pembrolizumab, nivolumab
+J0480 Injection, basiliximab, 20 mg, Simulect, N/A Immunosuppressant
+J0485 Injection, belatacept, 1 mg, Nulojix, Yes UN Immunosuppressant
+J3262 Injection, tocilizumab, 1 mg,Actemra, Yes ML Immunologic
+J7500 Azathioprine oral 50mg, Imuran, Yes Immunosuppressant
+J7501 Azathioprine parenteral, 100mg, Imuran, Yes UN Immunosuppressant
+J7502 Cyclosporine oral 100mg Neoral, Sandimmune, Yes Immunosuppressant
+J7505 Muromonab-CD3, parenteral 5mg, Orthoclone, OKT3, Yes ML Immunosuppressant, 1 per day X X X
+J7506 Prednisone oral, 5mg, Deltasone, Meticorten, Orasone, Yes Immunosuppressant, Medicare X-over
+J7510 Prednisolone oral, 5mg, Deltacortef Yes Immunosuppressant
+J7507 Tacrolimus immediate release oral, 1 mg, Prograf Yes Immunosuppressant, Medicare X-over
+J7508 Tacrolimus extended release oral, 0.1 mg, Astagraf N/A New code effective 1/1/14. Not covered. See pharmacy POS.
+J7525 Tacrolimus parenteral 5 mg Prograf Yes ML Immunosuppressant
+J7520 Sirolimus oral 1mg Rapamune Yes Immunosuppressant
+J7509 Methylprednisolone oral, 4 mg, Medrol Yes Immunosuppressant
+J7513 Daclizumab parenteral 25 mg Zenapax Yes ML Immunosuppressant
+J7515 Cyclosporine oral 25mg Neoral Sandimmune Yes Immunosuppressant
+J7516 Cyclosporine parenteral 250mg Neoral Sandimmune Yes PWD=UN SOL=ML Immunosuppressant
+J7517 Mycophenolate mofetil oral 250mg CellCept Yes Immunosuppressant
+J7518 Mycophenolic acid oral 180mg Myfortic Yes Immunosuppressant
+Peginterferon alfa-2a	A modified form of recombinant human interferon used to stimulate the innate antiviral response in the treatment of hepatitis B and C viruses.
+Interferon alfa-n3	A purified form of human interferon used to stimulate the innate antiviral response in the treatment of genital warts due to human papilloma virus.
+Peginterferon alfa-2b	A purified form of human interferon used to stimulate the innate antiviral response in the treatment of hepatitis B and C, genital warts, and some cancers.
+Aldesleukin	A recombinant analog of interleukin-2 used to induce an adaptive immune response in the treatment of renal cell carcinoma.
+Gemtuzumab ozogamicin	A monoclonal anti-CD33 antibody used to treat CD33-positive acute myeloid leukemia.
+Interferon alfacon-1	A recombinant interferon similar the interferon alfa subtype which is used to treat hepatitis C infections.
+Rituximab	A monoclonal anti-CD20 antibody used to treat non-Hodgkins lymphoma, chronic lymphocytic leukemia, Wegeners granulomatosis, pemphigus vulgaris, and rheumatoid arthritis.
+Ibritumomab tiuxetan	A monoclonal anti-CD20 antibody used to treat B-cell non-Hodgkins lymphoma via a conjugated radioactive isotope.
+Tositumomab	A monoclonal anti-CD20 antibody used to treat B-cell non-Hodgkins lymphoma via a conjugated radioactive isotope.
+Alemtuzumab	A monoclonal anti-CD52 antibody used in the treatment of B-cell chronic lymphocytic leukemia and relapsing forms of multiple sclerosis.
+Bevacizumab	A monoclonal anti-vascular endothelial growth factor antibody used in the treatment of many cancer types in combination with other antineoplastics.
+Phenylalanine	An amino acid commonly found as a component of total parenteral nutrition.
+Bortezomib	A proteasome inhibitor used to treat multiple myeloma in patients who have not been successfully treated with at least two previous therapies.
+Cladribine	A purine antimetabolite used for the management of relapsing forms of Multiple Sclerosis (MS), used in patients who have not responded to or who were unable to tolerate alternative MS drugs.
+Carmustine	An alkylating agent used in the treatment of various malignancies, including brain tumours and multiple myeloma, among others.
+Amsacrine	A cytotoxic agent used to induce remission in acute adult leukemia that is not adequately responsive to other agents.
+Chlorambucil	A chemotherapy agent used in the management of chronic lymphocytic leukemia and malignant lymphomas.
+Raltitrexed	A folate analog thymidylate synthase inhibitor used in the treatment of advanced colorectal cancer.
+Mitomycin	An antimetabolite used as an adjunct to ab externo (outside approach) eye surgeries for the treatment of glaucoma and used as a chemotherapeutic agent for various malignancies.
+    00143-9279	Mitomycin	West-Ward Pharmaceuticals Corp	20 mg/40mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    00143-9280	Mitomycin	West-Ward Pharmaceuticals Corp	40 mg/80mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    16729-0108	Mitomycin	Accord Healthcare Inc	20 mg/40mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    16729-0115	Mitomycin	Accord Healthcare Inc	5 mg/10mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    16729-0116	Mitomycin	Accord Healthcare Inc	40 mg/80mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    16729-0246	Mitomycin	Accord Healthcare Inc	5 mg/10mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    16729-0247	Mitomycin	Accord Healthcare Inc	20 mg/10mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    16729-0248	Mitomycin	Accord Healthcare Inc	40 mg/10mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    55390-0251	Mitomycin	Bedford Laboratories	10 mg/20mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    55390-0252	Mitomycin	Bedford Laboratories	20 mg/40mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    55390-0253	Mitomycin	Bedford Laboratories	40 mg/80mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    55390-0451	Mitomycin	Bedford Laboratories	10 mg/20mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    55390-0452	Mitomycin	Bedford Laboratories	20 mg/40mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    55390-0453	Mitomycin	Bedford Laboratories	40 mg/80mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    67457-0518	Mitomycin	Mylan Institutional LLC	5 mg/10mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    67457-0519	Mitomycin	Mylan Institutional LLC	20 mg/40mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    67457-0520	Mitomycin	Mylan Institutional LLC	40 mg/80mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    68001-0389	Mitomycin	BluePoint Laboratories	5 mg/10mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    68001-0390	Mitomycin	BluePoint Laboratories	20 mg/40mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    68001-0391	Mitomycin	BluePoint Laboratories	40 mg/80mL MITOMYCIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+Bexarotene	A retinoid drug used for cutaneous manifestations of T-cell lymphoma in patients who have not responded well to previous systemic therapy.
+Vindesine	A vinca alkaloid derived from vinblastine used for various types of malignancies, but mainly acute lymphocytic leukemia (ALL).
+Floxuridine	An antimetabolite used as palliative management for liver metastases of gastrointestinal malignancy.
+Tioguanine	A purine analogue antineoplastic agent used for the induction of remission, and for remission consolidation in patients with acute nonlymphocytic anemias.
+Vinorelbine	A vinca alkaloid used in the treatment of metastatic non-small cell lung carcinoma (NSLC) and in conjunction with other drugs in locally advanced NSCLC.
+Dexrazoxane	A cytoprotective drug used to prevent and improve cardiomyopathy associated with doxorubicin treatment for metastatic breast cancer.
+Sorafenib	A kinase inhibitor used in the treatment of unresectable liver carcinoma and advanced renal carcinoma.
+Streptozocin	A nitrosourea antineoplastic agent used in the treatment of metastatic pancreatic islet cell carcinoma.
+Gemcitabine	A nucleoside metabolic inhibitor used as adjunct therapy in the treatment of certain types of ovarian cancer, non-small cell lung carcinoma, metastatic breast cancer, and as a single agent for pancreatic cancer.
+Teniposide	A cytotoxic drug used as an adjunct for chemotherapy induction in the treatment of refractory childhood acute lymphoblastic leukemia.
+Epirubicin	An anthracycline topoisomerase II inhibitor used as an adjuvant to treating axillary node metastases in patients who have undergone surgical resection of primary breast cancer.
+Chloramphenicol	A broad spectrum antibiotic that is effective against a variety of susceptible and serious bacterial infections but is not frequently used because of its high risk of bone marrow toxicity.
+Lenalidomide	A thalidomide derivative used to treat multiple myeloma and anemia in low to intermediate risk myelodysplastic syndrome.
+Altretamine	An antineoplastic agent used in palliative treatment of persistent or recurrent ovarian cancer.
+Zidovudine	A dideoxynucleoside used in the treatment of HIV infection.
+Cisplatin	A platinum based chemotherapy agent used to treat various sarcomas, carcinomas, lymphomas, and germ cell tumors.
+Oxaliplatin	A platinum based chemotherapy agent used to treat carcinoma of the colon or rectum or stage III colon cancer.
+Cyclophosphamide	A nitrogen mustard used to treat lymphomas, myelomas, leukemia, mycosis fungoides, neuroblastoma, ovarian adenocarcinoma, retinoblastoma, and breast carcinoma.
+Fluorouracil	A pyrimidine analog used to treat basal cell carcinomas, and as an injection in palliative cancer treatment.
+Propylthiouracil	A thiourea antithyroid agent used to treat hyperthyroidism.
+Pentostatin	An adenosine deaminase inhibitor used to treat hairy cell leukemia.
+Methotrexate	An antineoplastic agent used the treatment of a wide variety of cancers as well as severe psoriasis, severe rheumatoid arthritis, and juvenile rheumatoid arthritis.
+Carbamazepine	An anticonvulsant used to treat various types of seizures and pain resulting from trigeminal neuralgia.
+Vinblastine	A vinca alkaloid used to treat breast cancer, testicular cancer, neuroblastoma, Hodgkin's and non-Hodgkins lymphoma, mycosis fungoides, histiocytosis, and Kaposi's sarcoma.
+Linezolid	An oxazolidinone antibiotic used to treat susceptible strains of multidrug resistant bacterial infections.
+Imatinib	A tyrosine kinase inhibitor used to treat a number of leukemias, myelodysplastic/myeloproliferative disease, systemic mastocytosis, hypereosinophilic syndrome, dermatofibrosarcoma protuberans, and gastrointestinal stromal tumors.
+Clofarabine	A purine nucleoside used to treat relapsed or refractory acute lymphoblastic leukemia in patients 1 to 21 years old.
+Pemetrexed	A folate analog used to treat mesothelioma and non-small cell lung cancer.
+Daunorubicin	An anthracycline aminoglycoside used to induce remission of nonlymphocytic leukemia and acute lymphocytic leukemia.
+Irinotecan	An antineoplastic enzyme inhibitor used to treat metastatic carcinoma of the colon or rectum.
+Methimazole	A thionamide antithyroid agent that inhibits the actions of thyroid peroxidase, leading to a reduction in thyroid hormone synthesis and amelioration of hyperthyroidism.
+Etoposide	A podophyllotoxin derivative used to treat testicular and small cell lung tumors.
+Dacarbazine	An antineoplastic agent used to treat malignant melanoma and Hodgkins disease.
+Temozolomide	An alkylating agent used to treat glioblastoma multiforme and refractory anaplastic astrocytoma.
+Tacrolimus	A calcineurin inhibitor used to prevent organ transplant rejection and to treat moderate to severe atopic dermatitis.
+Sirolimus	An immunosuppressant used to prevent organ transplant rejections and to treat lymphangioleiomyomatosis.
+Mechlorethamine	An antineoplastic agent used to treat Hodgkins disease, lymphosarcoma, and chronic myelocytic or lymphocytic leukemia.
+Azacitidine	A pyrimidine nucleoside analogue used to treat certain subtypes of myelodysplastic syndrome.
+Carboplatin	A alkylating agent used to treat advanced ovarian cancer.
+Dactinomycin	An actinomycin used to treat a wide variety of cancers.
+Cytarabine	A pyrimidine nucleoside analogue used to treat acute non-lymphocytic leukemia, lymphocytic leukemia, and the blast phase of chronic myelocytic leukemia.
+Doxorubicin	A medication used to treat various cancers and Kaposis Sarcoma.
+Hydroxyurea	An antimetabolite used to treat sickle cell anemia crisis.
+Busulfan	An alkylating agent used to treat chronic myelogenous leukemia.
+Topotecan	An antineoplastic agent used to treat ovarian cancer, small cell lung cancer, or cervical cancer.
+Mercaptopurine	An antineoplastic agent used to treat acute lymphocytic leukemia.
+Thalidomide	A medication used to treat newly diagnosed multiple myeloma and erythema nodosum leprosum.
+Melphalan	An alkylating antineoplastic agent used to treat multiple myeloma and ovarian carcinoma.
+Fludarabine	A purine analog antimetabolite that inhibits DNA synthesis.
+Flucytosine	An antifungal indicated only to treat severe infections throughout the body caused by susceptible strains of Candida or Cryptococcus.
+Capecitabine	A nucleoside metabolic inhibitor indicated to treat colon, colorectal and breast cancer.
+Procarbazine	An antineoplastic agent indicated for the treatment of stage III and stage IV Hodgkins disease in combination with other chemotherapeutic agents.
+Arsenic trioxide	A chemotherapeutic agent used in the treatment of refractory or relapsed acute promyelocytic leukemia in patients with prior retinoid and anthracycline chemotherapy.
+Idarubicin	An anthracycline antineoplastic agent used to treat acute myeloid leukemia (AML) in adults.
+Ifosfamide	An alkylating and immunosuppressive agent used in chemotherapy for the treatment of cancers, including testicular cancer, ovarian cancer, cervical cancer, osteocarcinoma, bladder cancer, small cell lung cancer, and non-Hodgkins lymphoma.
+Mitoxantrone	A chemotherapeutic agent used for the treatment of secondary progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis.
+Lomustine	An alkylating agent used as a part of chemotherapeutic regimens for the treatment of primary and metastatic brain tumors as well as refractory or relapsed Hodgkins disease in addition to surgical and/or radiotherapeutic treatments.
+Paclitaxel	A taxoid chemotherapeutic agent used as first-line and subsequent therapy for the treatment of advanced carcinoma of the ovary, and other various cancers including breast and lung cancer.
+Docetaxel	A taxoid antineoplastic agent used in the treatment of various cancers, such as locally advanced or metastatic breast cancer, metastatic prostate cancer, gastric adenocarcinoma, and head and neck cancer.
+Dasatinib	A tyrosine kinase inhibitor used for the treatment of lymphoblastic or chronic myeloid leukemia with resistance or intolerance to prior therapy.
+Decitabine	A chemotherapeutic agent used for the treatment of myelodysplastic syndromes (MDS), chronic myelomonocytic leukemia, and conditions related to refractory anemia.
+Nelarabine	A purine nucleoside analog and antineoplastic agent used for the treatment of with acute T-cell lymphoblastic leukemia and T-cell lymphoblastic lymphoma with inadequate clinical response to prior chemotherapeutic treatments.
+Everolimus	A mammalian target of rapamycin (mTOR) kinase inhibitor used to treat various types of malignancies.
+Vorinostat	A histone deacetylase (HDAC) inhibitor used for the treatment of cutaneous manifestations in patients with progressive, persistent, or recurrent cutaneous T- cell lymphoma (CTCL) following prior systemic therapies.
+Thiotepa	An alkylating agent used to prevent graft rejection in stem cell transplantation and to treat a variety of malignancies including certain types of adenocarcinoma and superficial bladder carcinomas.
+Ixabepilone	A microtubule inhibitor administered in combination with capecitabine or alone in the treatment of metastatic or locally advanced breast cancer that has shown inadequate response to taxanes and anthracyclines.
+Nilotinib	A kinase inhibitor used for the chronic phase treatment of Chronic Myeloid Leukemia (CML) that is Philadelphia chromosome positive and for the treatment of CML that is resistant to therapy containing imatinib.
+Belinostat	A histone deacetylase (HDAC) inhibitor used for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL).
+Trabectedin	An alkylating agent approved for the treatment of unresectable or metastatic soft tissue sarcoma (liposarcoma or leiomyosarcoma).
+Trastuzumab emtansine	An antineoplastic agent and antibody-drug conjugate used to treat HER2-overexpressing breast cancer.
+Temsirolimus	A antineoplastic agent used in the treatment of renal cell carcinoma (RCC) that works by inhibiting mTOR.
+Bosutinib	An antineoplastic agent used for the treatment of chronic, accelerated, or blast phase Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML) in adults with inadequate clinical response to other treatments.
+Bendamustine	An antineoplastic agent used for the treatment of chronic lymphocytic leukemia (CLL) and indolent B-cell non-Hodgkin lymphoma (NHL) that has progressed following rituximab therapy.
+Cabazitaxel	An antineoplastic agent used for the treatment of hormone-refractory metastatic prostate cancer previously treated with a docetaxel-containing treatment regimen.
+Eribulin	A microtubule inhibitor used to treat metastatic breast cancer and metastatic or unresectable liposarcoma.
+Ruxolitinib	A kinase inhibitor used to treat various types of myelofibrosis, polycythemia vera in patients who have not responded to or cannot tolerate hydroxyurea, and to treat graft-versus-host disease in cases that are refractory to steroid treatment.
+Carfilzomib	A proteasome inhibitor used either alone or in conjunction with a chemotherapy regimen to treat patients with relapsed or refractory multiple myeloma.
+Tofacitinib	A Janus kinase (JAK) inhibitor used to treat rheumatoid and psoriatic arthritis, and ulcerative colitis. It is not recommended to be combined with biologic therapies or potent immunosuppressants like cyclosporine or azathioprine.
+Ponatinib	A kinase inhibitor used to treat patients with various types of chronic myeloid leukemia (CML).
+Pomalidomide	A thalidomide analogue used in combination with dexamethasone to treat patients with multiple myeloma.
+Obinutuzumab	An antineoplastic CD20 antibody used to treat untreated chronic lymphocytic leukemia in combination with chlorambucil.
+Tedizolid phosphate	An antibiotic agent used to treat acute bacterial skin and skin structure infections caused by susceptible isolates of Gram-positive bacteria.
+Blinatumomab	An antineoplastic antibody used to treat Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+Ibrutinib	An antineoplastic agent used to treat chronic lymphocytic leukemia, mantle cell lymphoma, and Waldenstroms Macroglobulinemia.
+Palbociclib	An endocrine-based chemotherapeutic agent used in combination with other antineoplastic agents to treat HER2-negative and HR-positive advanced or metastatic breast cancer.
+Olaparib	A chemotherapeutic agent used to treat recurrent or advanced ovarian cancer and metastatic breast cancer in patients with specific mutations and prior history of chemotherapy.
+Dinutuximab	An immunotherapeutic agent used in combination with other immunomodulating agents to treat high-risk neuroblastoma in pediatric patients who achieve at least a partial response to prior first-line multiagent, multimodality therapy.
+Penicillamine	A chelator used to treat Wilsons disease, cystinuria, and rheumatoid arthritis.
+    00591-4171	Penicillamine	Actavis Pharma, Inc.	250 mg/1 PENICILLAMINE	CAPSULE
+    43975-0309	Penicillamine	Amerigen Pharmaceuticals, Inc.	250 mg/1 PENICILLAMINE	CAPSULE
+    68682-0020	penicillamine	Oceanside Pharmaceuticals	250 mg/1 PENICILLAMINE	CAPSULE
+Indomethacin	A nonsteroidal anti-inflammatory (NSAID) used for symptomatic management of chronic musculoskeletal pain conditions and to induce closure of a hemodynamically significant patent ductus arteriosus in premature infants.
+    00093-4029	Indomethacin	Teva Pharmaceuticals USA, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    00093-4030	Indomethacin	Teva Pharmaceuticals USA, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    00185-0720	Indomethacin	Eon Labs, Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    00378-0143	Indomethacin	Mylan Pharmaceuticals Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    00378-0147	Indomethacin	Mylan Pharmaceuticals Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    00409-1113	Indomethacin	Hospira, Inc.	1 mg/1 INDOMETHACIN SODIUM	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    00440-1652	Indomethacin	Liberty Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    00574-0193	Indomethacin	Paddock Laboratories, LLC	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    00713-0176	INDOMETHACIN	Cosette Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	SUPPOSITORY
+    00781-2325	Indomethacin	Sandoz Inc	25 mg/1 INDOMETHACIN	CAPSULE
+    00781-2350	Indomethacin	Sandoz Inc	50 mg/1 INDOMETHACIN	CAPSULE
+    10544-0083	Indomethacin	Blenheim Pharmacal, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    10544-0216	Indomethacin	Blenheim Pharmacal, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    10544-0234	Indomethacin	Blenheim Pharmacal, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    10544-0919	Indomethacin	Blenheim Pharmacal, Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    10544-0935	Indomethacin	Blenheim Pharmacal, Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    10702-0016	INDOMETHACIN	KVK-Tech, Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    12634-0160	INDOMETHACIN ER	Apotheca, Inc.	75 mg/1 INDOMETHACIN	CAPSULE
+    12634-0838	INDOMETHACIN ER	Apotheca, Inc.	75 mg/1 INDOMETHACIN	CAPSULE
+    16590-0129	INDOMETHACIN	STAT RX USA LLC	25 mg/1 INDOMETHACIN	CAPSULE
+    16590-0130	INDOMETHACIN	STAT RX USA LLC	50 mg/1 INDOMETHACIN	CAPSULE
+    21695-0522	Indomethacin	Rebel Distributors Corp	25 mg/1 INDOMETHACIN	CAPSULE
+    21695-0523	Indomethacin	Rebel Distributors Corp	50 mg/1 INDOMETHACIN	CAPSULE
+    23155-0010	Indomethacin	Heritage Pharmaceuticals Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    23155-0011	Indomethacin	Heritage Pharmaceuticals Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    24236-0132	Indomethacin	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    24236-0621	Indomethacin	REMEDYREPACK INC.	50 mg/1 INDOMETHACIN	CAPSULE
+    31722-0542	Indomethacin	Camber Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    31722-0543	Indomethacin	Camber Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    31722-0565	Indomethacin	Camber Pharmaceuticals, Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    33261-0133	Indomethacin	Aidarex Pharmaceuticals LLC	25 mg/1 INDOMETHACIN	CAPSULE
+    35356-0697	Indomethacin	Lake Erie Medical DBA Quality Care Products LLC	50 mg/1 INDOMETHACIN	CAPSULE
+    35356-0876	Indomethacin	Lake Erie Medical DBA Quality Care Products LLC	25 mg/1 INDOMETHACIN	CAPSULE
+    42254-0081	Indomethacin	Rebel Distributors Corp	50 mg/1 INDOMETHACIN	CAPSULE
+    42254-0237	INDOMETHACIN	Rebel Distributors Corp	25 mg/1 INDOMETHACIN	CAPSULE
+    42708-0030	indomethacin	QPharma Inc	50 mg/1 INDOMETHACIN	CAPSULE
+    43063-0368	Indomethacin	PD-Rx Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    43063-0594	Indomethacin	PD-Rx Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    43063-0773	Indomethacin	PD-Rx Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    43063-0777	Indomethacin	PD-Rx Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    43063-0883	Indomethacin	PD-Rx Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    43063-0929	Indomethacin	PD-Rx Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    43063-0930	Indomethacin	PD-Rx Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    45963-0811	Indomethacin	Actavis Pharma, Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    49349-0113	INDOMETHACIN	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    49349-0595	Indomethacin	REMEDYREPACK INC.	50 mg/1 INDOMETHACIN	CAPSULE
+    49349-0776	Indomethacin	REMEDYREPACK INC.	50 mg/1 INDOMETHACIN	CAPSULE
+    49349-0873	Indomethacin	REMEDYREPACK INC.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    49999-0100	Indomethacin	Lake Erie Medical DBA Quality Care Products LLC	50 mg/1 INDOMETHACIN	CAPSULE
+    49999-0234	Indomethacin	Lake Erie Medical DBA Quality Care Products LLC	25 mg/1 INDOMETHACIN	CAPSULE
+    49999-0371	Indomethacin	Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    50090-0050	Indomethacin	A-S Medication Solutions	50 mg/1 INDOMETHACIN	CAPSULE
+    50090-0051	Indomethacin	A-S Medication Solutions	50 mg/1 INDOMETHACIN	CAPSULE
+    50090-0052	Indomethacin	A-S Medication Solutions	25 mg/1 INDOMETHACIN	CAPSULE
+    50090-0053	Indomethacin	A-S Medication Solutions LLC	25 mg/1 INDOMETHACIN	CAPSULE
+    50090-0054	Indomethacin	A-S Medication Solutions	25 mg/1 INDOMETHACIN	CAPSULE
+    50090-0055	Indomethacin	A-S Medication Solutions	25 mg/1 INDOMETHACIN	CAPSULE
+    50090-0263	INDOMETHACIN	A-S Medication Solutions	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    50090-2715	Indomethacin	A-S Medication Solutions	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    50090-2803	Indomethacin	A-S Medication Solutions	50 mg/1 INDOMETHACIN	CAPSULE
+    50090-2821	indomethacin	A-S Medication Solutions	25 mg/1 INDOMETHACIN	CAPSULE
+    50090-2987	Indomethacin	A-S Medication Solutions	50 mg/1 INDOMETHACIN	CAPSULE
+    50090-3014	indomethacin	A-S Medication Solutions	50 mg/1 INDOMETHACIN	CAPSULE
+    50090-3022	indomethacin	A-S Medication Solutions	50 mg/1 INDOMETHACIN	CAPSULE
+    50090-3097	indomethacin	A-S Medication Solutions	25 mg/1 INDOMETHACIN	CAPSULE
+    50268-0430	Indomethacin	AvPAK	25 mg/1 INDOMETHACIN	CAPSULE
+    50268-0431	Indomethacin	AvPAK	50 mg/1 INDOMETHACIN	CAPSULE
+    50268-0432	Indomethacin	AvPAK	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    50436-0875	Indomethacin	Unit Dose Services	50 mg/1 INDOMETHACIN	CAPSULE
+    50742-0234	Indomethacin	Ingenus Pharmaceuticals, LLC	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    51079-0190	Indomethacin	Mylan Institutional Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    51079-0191	Indomethacin	Mylan Institutional Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    52125-0157	Indomethacin	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    52125-0325	INDOMETHACIN	REMEDYREPACK INC.	50 mg/1 INDOMETHACIN	CAPSULE
+    52125-0438	Indomethacin	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    52125-0716	Indomethacin	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    52125-0933	Indomethacin	REMEDYREPACK INC.	50 mg/1 INDOMETHACIN	CAPSULE
+    52959-0081	INDOMETHACIN	H.J. Harkins Co., Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    52959-0082	INDOMETHACIN EXTENDED-RELEASE	H. J. Harkins Company inc.	75 mg/1 INDOMETHACIN	CAPSULE
+    53002-3050	Indomethacin	RPK Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    53002-3500	Indomethacin	RPK Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    54569-0275	Indomethacin	A-S Medication Solutions	50 mg/1 INDOMETHACIN	CAPSULE
+    54569-0277	Indomethacin	A-S Medication Solutions	25 mg/1 INDOMETHACIN	CAPSULE
+    54569-1518	Indomethacin	A-S Medication Solutions LLC	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    54868-0074	Indomethacin	Physicians Total Care, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    54868-0875	Indomethacin	Physicians Total Care, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    54868-0922	Indomethacin	Physicians Total Care, Inc.	75 mg/1 INDOMETHACIN	CAPSULE
+    55154-5679	Indomethacin	Cardinal Health	25 mg/1 INDOMETHACIN	CAPSULE
+    55289-0147	Indomethacin	PD-Rx Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    55289-0469	INDOMETHACIN	PD-Rx Pharmaceuticals, Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    55289-0663	Indomethacin	PD-Rx Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    55390-0299	Indomethacin	Bedford Laboratories	.1 mg/.1mL INDOMETHACIN	INJECTION, POWDER, FOR SOLUTION
+    55700-0330	Indomethacin	Lake Erie Medical DBA Quality Care Products LLC	50 mg/1 INDOMETHACIN	CAPSULE
+    55700-0378	Indomethacin	Lake Erie Medical DBA Quality Care Products LLC	25 mg/1 INDOMETHACIN	CAPSULE
+    55700-0438	Indomethacin	Lake Erie Medical DBA Quality Care Products LLC	50 mg/1 INDOMETHACIN	CAPSULE
+    55700-0536	Indomethacin	Lake Erie Medical DBA Quality Care Products LLC	25 mg/1 INDOMETHACIN	CAPSULE
+    55700-0537	Indomethacin	Lake Erie Medical DBA Quality Care Products LLC	50 mg/1 INDOMETHACIN	CAPSULE
+    57664-0119	INDOMETHACIN	Caraco Pharmaceutical Laboratories, Ltd.	25 mg/1 INDOMETHACIN	CAPSULE
+    57664-0120	INDOMETHACIN	Caraco Pharmaceutical Laboratories, Ltd.	50 mg/1 INDOMETHACIN	CAPSULE
+    58118-0086	Indomethacin	Clinical Solutions Wholesale, LLC	25 mg/1 INDOMETHACIN	CAPSULE
+    58118-0087	Indomethacin	Clinical Solutions Wholesale, LLC	50 mg/1 INDOMETHACIN	CAPSULE
+    58118-0305	Indomethacin	Clinical Solutions Wholesale, LLC	50 mg/1 INDOMETHACIN	CAPSULE
+    58118-0542	Indomethacin	Clinical Solutions Wholesale, LLC	25 mg/1 INDOMETHACIN	CAPSULE
+    58118-4129	Indomethacin	Clinical Solutions Wholesale	25 mg/1 INDOMETHACIN	CAPSULE
+    58118-4130	Indomethacin	Clinical Solutions Wholesale	50 mg/1 INDOMETHACIN	CAPSULE
+    59746-0346	Indomethacin	Jubilant Cadista Pharmaceuticals Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    59746-0347	Indomethacin	Jubilant Cadista Pharmaceuticals Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    59746-0379	Indomethacin extended-release	Jubilant Cadista Pharmaceuticals Inc.	75 mg/1 INDOMETHACIN	CAPSULE
+    60760-0294	Indomethacin	St. Marys Medical Park Pharmacy	50 mg/1 INDOMETHACIN	CAPSULE
+    61786-0016	Indomethacin	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    61786-0351	Indomethacin	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    61786-0459	Indomethacin	REMEDYREPACK INC.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    61786-0776	Indomethacin	REMEDYREPACK INC.	50 mg/1 INDOMETHACIN	CAPSULE
+    61919-0129	INDOMETHACIN	Direct Rx	25 mg/1 INDOMETHACIN	CAPSULE
+    61919-0130	INDOMETHACIN	Direct_Rx	50 mg/1 INDOMETHACIN	CAPSULE
+    61919-0164	INDOMETHACIN	DIRECT RX	50 mg/1 INDOMETHACIN	CAPSULE
+    61919-0344	INDOMETHACIN	Direct RX	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    61919-0487	INDOMETHACIN	DirectRX	50 mg/1 INDOMETHACIN	CAPSULE
+    61919-0526	INDOMETHACIN	DIRECT RX	25 mg/1 INDOMETHACIN	CAPSULE
+    61919-0985	INDOMETHACIN	DIRECT RX	25 mg/1 INDOMETHACIN	CAPSULE
+    63187-0282	Indomethacin	Proficient Rx LP	50 mg/1 INDOMETHACIN	CAPSULE
+    63187-0290	INDOMETHACIN	Proficient Rx LP	25 mg/1 INDOMETHACIN	CAPSULE
+    63187-0697	INDOMETHACIN	Proficient Rx LP	50 mg/1 INDOMETHACIN	CAPSULE
+    63187-0852	indomethacin	Proficient Rx LP	25 mg/1 INDOMETHACIN	CAPSULE
+    63187-0948	Indomethacin	Proficient Rx LP	25 mg/1 INDOMETHACIN	CAPSULE
+    63323-0659	Indomethacin	Fresenius Kabi USA, LLC	1 mg/mL INDOMETHACIN	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    63629-1418	Indomethacin	Bryant Ranch Prepack	50 mg/1 INDOMETHACIN	CAPSULE
+    63629-1780	Indomethacin	Bryant Ranch Prepack	25 mg/1 INDOMETHACIN	CAPSULE
+    63629-3201	Indomethacin	Bryant Ranch Prepack	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    63629-6333	Indomethacin	Bryant Ranch Prepack	50 mg/1 INDOMETHACIN	CAPSULE
+    63629-7171	Indomethacin	Bryant Ranch Prepack	25 mg/1 INDOMETHACIN	CAPSULE
+    63629-7679	Indomethacin	Bryant Ranch Prepack	25 mg/1 INDOMETHACIN	CAPSULE
+    63629-8066	Indomethacin	Bryant Ranch Prepack	50 mg/1 INDOMETHACIN	CAPSULE
+    65162-0506	Indomethacin	Amneal Pharmaceuticals LLC	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    65862-0684	Indomethacin Extended-Release	Aurobindo Pharma Limited	75 mg/1 INDOMETHACIN	CAPSULE
+    65977-5042	Indomethacin	Hetero Drugs Ltd.,	25 mg/1 INDOMETHACIN	CAPSULE
+    65977-5043	Indomethacin	Hetero Drugs Ltd.,	50 mg/1 INDOMETHACIN	CAPSULE
+    66116-0529	Indomethacin	MedVantx, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    66267-0119	Indomethacin	NuCare Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    66267-0120	Indomethacin	NuCare Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    66267-0121	Indomethacin	NuCare Pharmaceuticals, Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    66336-0687	Indomethacin	Dispensing Solutions, Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    67046-0330	Indomethacin	Contract Pharmacy Services-PA	25 mg/1 INDOMETHACIN	CAPSULE
+    67046-0331	Indomethacin	Contract Pharmacy Services-PA	50 mg/1 INDOMETHACIN	CAPSULE
+    67296-0319	Indomethacin	RedPharm Drug, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    67296-0527	Indomethacin	RedPharm Drug Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    67296-0560	Indomethacin	RedPharm Drug Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    67296-0723	Indomethacin	RedPharm Drug, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    67296-0886	Indomethacin	RedPharm Drug, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    67296-0954	Indomethacin	RedPharm Drug, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    67296-1008	Indomethacin	RedPharm Drug, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    67296-1107	Indomethacin	RedPharm Drug, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    67296-1512	indomethacin	RedPharm Drug, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    67296-1525	Indomethacin	RedPharm Drug, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    68071-3060	Indomethacin	NuCare Pharmaceuticals,Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    68071-3174	Indomethacin extended-release	NuCare Pharmaceuticals, Inc.	75 mg/1 INDOMETHACIN	CAPSULE
+    68071-3277	Indomethacin	NuCare Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    68071-4091	indomethacin	NuCare Pharmaceuticals,Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    68071-4394	Indomethacin	NuCare Pharmaceuticals,Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    68084-0411	Indomethacin	American Health Packaging	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    68151-0279	Indomethacin	Carilion Materials Management	25 mg/1 INDOMETHACIN	CAPSULE
+    68151-1733	INDOMETHACIN	Carilion Materials Management	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    68151-2919	Indomethacin	Carilion Materials Management	25 mg/1 INDOMETHACIN	CAPSULE
+    68382-0293	indomethacin	Zydus Pharmaceuticals (USA) Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    68382-0294	indomethacin	Zydus Pharmaceuticals (USA) Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    68382-0371	indomethacin	Zydus Pharmaceuticals (USA) Inc.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    68382-0470	INDOMETHACIN	Zydus Pharmaceuticals USA Inc.	1 mg/1 INDOMETHACIN SODIUM	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    68387-0345	Indomethacin extended-release	Keltman Pharmaceuticals Inc.	75 mg/1 INDOMETHACIN	CAPSULE
+    68462-0302	Indomethacin	Glenmark Pharmaceuticals Inc., USA	50 mg/1 INDOMETHACIN	CAPSULE
+    68462-0325	indomethacin	Glenmark Pharmaceuticals Inc., USA	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    68462-0406	Indomethacin	Glenmark Pharmaceuticals Inc., USA	25 mg/1 INDOMETHACIN	CAPSULE
+    68788-6448	Indomethacin	Preferred Pharmaceuticals Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    68788-6821	Indomethacin	Preferred Pharmaceuticals Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    68788-6983	Indomethacin	Preferred Pharmaceuticals Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    68788-7362	Indomethacin	Preferred Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    68788-9107	INDOMETHACIN	Preferred Pharmaceuticals, Inc.	25 mg/1 INDOMETHACIN	CAPSULE
+    68788-9108	INDOMETHACIN	Preferred Pharmaceuticals, Inc.	50 mg/1 INDOMETHACIN	CAPSULE
+    69189-0599	Indomethacin	Avera McKennan Hospital	25 mg/1 INDOMETHACIN	CAPSULE
+    70518-0254	Indomethacin	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    70518-0515	Indomethacin	REMEDYREPACK INC.	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    70518-1458	Indomethacin	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    70518-1512	Indomethacin	REMEDYREPACK INC.	50 mg/1 INDOMETHACIN	CAPSULE
+    70518-2123	Indomethacin	REMEDYREPACK INC.	25 mg/1 INDOMETHACIN	CAPSULE
+    70771-1004	indomethacin	Cadila Healthcare Limited	50 mg/1 INDOMETHACIN	CAPSULE
+    70771-1005	indomethacin	Cadila Healthcare Limited	25 mg/1 INDOMETHACIN	CAPSULE
+    70771-1203	indomethacin	Cadila Healthcare Limited	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    70934-0031	Indomethacin	Denton Pharma, Inc. DBA Northwind Pharmaceuticals	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    70934-0181	Indomethacin	Denton Pharma, Inc. DBA Northwind Pharmaceuticals	50 mg/1 INDOMETHACIN	CAPSULE
+    70934-0279	Indomethacin	Denton Pharma, Inc. DBA Northwind Pharmaceuticals	50 mg/1 INDOMETHACIN	CAPSULE
+    70934-0395	Indomethacin	Denton Pharma, Inc. DBA Northwind Pharmaceuticals	50 mg/1 INDOMETHACIN	CAPSULE
+    71205-0159	Indomethacin	Proficient Rx LP	50 mg/1 INDOMETHACIN	CAPSULE
+    71205-0215	Indomethacin	Proficient Rx LP	25 mg/1 INDOMETHACIN	CAPSULE
+    71335-0107	Indomethacin	Bryant Ranch Prepack	50 mg/1 INDOMETHACIN	CAPSULE
+    71335-0137	Indomethacin extended-release	Bryant Ranch Prepack	75 mg/1 INDOMETHACIN	CAPSULE
+    71335-0355	Indomethacin	Bryant Ranch Prepack	25 mg/1 INDOMETHACIN	CAPSULE
+    71335-0747	Indomethacin	Bryant Ranch Prepack	50 mg/1 INDOMETHACIN	CAPSULE
+    71335-0756	Indomethacin	Bryant Ranch Prepack	75 mg/1 INDOMETHACIN	CAPSULE, EXTENDED RELEASE
+    71335-0992	Indomethacin	Bryant Ranch Prepack	25 mg/1 INDOMETHACIN	CAPSULE
+    71335-1250	Indomethacin	Bryant Ranch Prepack	25 mg/1 INDOMETHACIN	CAPSULE
+    72578-0038	Indomethacin	Viona Pharmaceuticals Inc	25 mg/1 INDOMETHACIN
+    72578-0039	Indomethacin	Viona Pharmaceuticals Inc	50 mg/1 INDOMETHACIN	
+Interferon gamma-1b	A form of recombinant human interferon used to treat infections associated with chronic granulomatous disease and to slow the progression of severe malignant osteopetrosis.
+omega interferon	Investigated for use/treatment in hepatitis (viral, C).
+Interferon alfa-n1	A purified form of human interferon used to stimulate the innate antiviral response in the treatment of genital warts due to human papilloma virus.
+Peginterferon beta-1a	An interferon beta used to treat relapsing forms of multiple sclerosis.
+Cepeginterferon alfa-2B	Cepeginterferon alfa-2B is under investigation in clinical trial NCT01889433 (An Open-label Comparative Efficacy and Safety Study of Algeron (Cepeginterferon Alfa-2b) in Treatment-naive Patients With Chronic Hepatitis C).
+Interferon beta-1b	A form of recombinant human interferon used to slow the progression of relapsing multiple sclerosis and to reduce the frequency of clinical symptoms.
+Interferon alfa-2a, Recombinant	A form of recombinant human interferon used to stimulate the innate antiviral response in the treatment of hepatitis B and C viruses.
+Interferon alfa	Investigated for use/treatment in hepatitis (viral, C), leukemia (lymphoid), leukemia (myeloid), leukemia (unspecified), and melanoma.
+Interferon alfa-2b	A form of recombinant human interferon used to treat hepatitis B and C infection, genital warts, hairy cell leukemia, follicular lymphoma, malignant melanoma, and AIDs-related Kaposis sarcoma.
+Eculizumab
+Antilymphocyte immunoglobulin (horse)
+Emapalum
+Risankizum
+Vedolizumab
+Efalizumab
+Natalizumab
+Ocrelizumab
+Belimumab
+Alemtuzumab
+Fingolimod
+Muromonab
+Antithymocyte immunoglobulin (rabbit)
+Abatacept
+Alefacept
+Cladribine
+    00069-0086	Cladribine	Pfizer Laboratories Div Pfizer Inc.	1 mg/mL CLADRIBINE	INJECTION
+    00069-0201	Cladribine	Pfizer Laboratories Div Pfizer Inc.	1 mg/mL CLADRIBINE	INJECTION
+    00143-9871	Cladribine	Hikma Pharmaceuticals USA Inc.	1 mg/mL CLADRIBINE	INJECTION
+    47351-0017	Cladribine	Onco Therapies Limited	1 mg/mL CLADRIBINE	INJECTION
+    55390-0115	Cladribine	Bedford Laboratories	1 mg/mL CLADRIBINE	INJECTION
+    55390-0124	Cladribine	Bedford Laboratories	1 mg/mL CLADRIBINE	INJECTION
+    63323-0140	Cladribine	Fresenius Kabi USA, LLC	1 mg/mL CLADRIBINE	INJECTION
+    67457-0450	Cladribine	Mylan Institutional LLC	1 mg/mL CLADRIBINE	INJECTION
+    67457-0451	Cladribine	Mylan Institutional LLC	1 mg/mL CLADRIBINE	INJECTION
+Tofacitinib
+Apremilast
+Leflunomide
+    00093-0173	Leflunomide	Teva Pharmaceuticals USA Inc	10 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    00093-0174	Leflunomide	Teva Pharmaceuticals USA Inc	20 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    00555-0351	Leflunomide	Barr Laboratories Inc.	10 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    00555-0352	Leflunomide	Barr Laboratories Inc.	20 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    00781-5056	Leflunomide	Sandoz Inc	10 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    00781-5057	Leflunomide	Sandoz Inc	20 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    00955-1735	Leflunomide	Winthrop U.S.	10 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    00955-1737	Leflunomide	Winthrop U.S.	20 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    10702-0277	Leflunomide	KVK-Tech, Inc.	10 mg/1 LEFLUNOMIDE	TABLET
+    10702-0278	Leflunomide	KVK-Tech, Inc.	20 mg/1 LEFLUNOMIDE	TABLET
+    13811-0677	Leflunomide	Trigen Laboratories, LLC	10 mg/1 LEFLUNOMIDE	TABLET
+    13811-0678	Leflunomide	Trigen Laboratories, LLC	20 mg/1 LEFLUNOMIDE	TABLET
+    16714-0321	Leflunomide	NorthStar RxLLC	10 mg/1 LEFLUNOMIDE	TABLET
+    16714-0331	Leflunomide	NorthStar RxLLC	20 mg/1 LEFLUNOMIDE	TABLET
+    23155-0043	Leflunomide	Heritage Pharmaceuticals Inc.	10 mg/1 LEFLUNOMIDE	TABLET
+    23155-0044	Leflunomide	Heritage Pharmaceuticals Inc.	20 mg/1 LEFLUNOMIDE	TABLET
+    42291-0420	LEFLUNOMIDE	AvKARE, Inc	10 mg/1 LEFLUNOMIDE	TABLET
+    42291-0421	LEFLUNOMIDE	AvKARE, Inc	20 mg/1 LEFLUNOMIDE	TABLET
+    46708-0436	Leflunomide	Alembic Pharmaceuticals Limited	10 mg/1 LEFLUNOMIDE	TABLET
+    46708-0437	Leflunomide	Alembic Pharmaceuticals Limited	20 mg/1 LEFLUNOMIDE	TABLET
+    54868-2319	Leflunomide	Physicians Total Care, Inc.	20 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    54868-6170	Leflunomide	Physicians Total Care, Inc.	10 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    60429-0319	LEFLUNOMIDE	Golden State Medical Supply, Inc.	10 mg/1 LEFLUNOMIDE	TABLET
+    60429-0320	LEFLUNOMIDE	Golden State Medical Supply, Inc.	20 mg/1 LEFLUNOMIDE	TABLET
+    60505-2502	LEFLUNOMIDE	Apotex Corp.	10 mg/1 LEFLUNOMIDE	TABLET
+    60505-2503	LEFLUNOMIDE	Apotex Corp.	20 mg/1 LEFLUNOMIDE	TABLET
+    62332-0061	Leflunomide	Alembic Pharmaceuticals Inc.	10 mg/1 LEFLUNOMIDE	TABLET
+    62332-0062	Leflunomide	Alembic Pharmaceuticals Inc.	20 mg/1 LEFLUNOMIDE	TABLET
+    66993-0160	leflunomide	Prasco LLC	10 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    66993-0161	leflunomide	Prasco LLC	20 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    68258-2992	Leflunomide	Dispensing Solutions, Inc.	20 mg/1 LEFLUNOMIDE	TABLET
+    69189-0334	Leflunomide	Avera McKennan Hospital	20 mg/1 LEFLUNOMIDE	TABLET
+    70710-1157	leflunomide	Zydus Pharmaceuticals (USA) Inc.	10 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    70710-1158	leflunomide	Zydus Pharmaceuticals (USA) Inc.	20 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    70771-1491	leflunomide	Cadila Healthcare Limited	10 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+    70771-1492	leflunomide	Cadila Healthcare Limited	20 mg/1 LEFLUNOMIDE	TABLET, FILM COATED
+Baricitinib
+Mycophenolic acid
+    00093-7031	Mycophenolic Acid	Teva Pharmaceuticals USA, Inc.	180 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    00093-7032	Mycophenolic Acid	Teva Pharmaceuticals USA, Inc.	360 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    00378-4201	Mycophenolic Acid	Mylan Pharmaceuticals Inc.	180 mg/1 MYCOPHENOLIC ACID	TABLET, DELAYED RELEASE
+    00378-4202	Mycophenolic Acid	Mylan Pharmaceuticals Inc.	360 mg/1 MYCOPHENOLIC ACID	TABLET, DELAYED RELEASE
+    00904-6785	Mycophenolic Acid	Major Pharmaceuticals	180 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    00904-6786	Mycophenolic Acid	Major Pharmaceuticals	360 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    16729-0189	Mycophenolic Acid	Accord Healthcare Inc.	360 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    16729-0261	Mycophenolic Acid	Accord Healthcare Inc.	180 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    51079-0508	Mycophenolic Acid	Mylan Institutional Inc.	180 mg/1 MYCOPHENOLIC ACID	TABLET, DELAYED RELEASE
+    51079-0509	Mycophenolic Acid	Mylan Institutional Inc.	360 mg/1 MYCOPHENOLIC ACID	TABLET, DELAYED RELEASE
+    60429-0016	Mycophenolic Acid	Golden State Medical Supply, Inc.	180 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    60429-0017	Mycophenolic Acid	Golden State Medical Supply, Inc.	360 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    60505-2965	Mycophenolic Acid	Apotex Corp	180 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    60505-2966	Mycophenolic Acid	Apotex Corp	360 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    68084-0907	Mycophenolic Acid	American Health Packaging	180 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    68084-0918	Mycophenolic Acid	American Health Packaging	360 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    68254-5001	mycophenolic acid	CONCORD BIOTECH LIMITED	180 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+    68254-5002	mycophenolic acid	CONCORD BIOTECH LIMITED	360 mg/1 MYCOPHENOLATE SODIUM	TABLET, DELAYED RELEASE
+Mycophenolate
+    00054-0163	Mycophenolate Mofetil	West-Ward Pharmaceuticals Corp	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    00054-0166	Mycophenolate Mofetil	West-Ward Pharmaceuticals Corp	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET
+    00093-7334	Mycophenolate Mofetil	Teva Pharmaceuticals USA, Inc.	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    00093-7477	mycophenolate mofetil	Teva Pharmaceuticals USA, Inc.	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    00378-2250	Mycophenolate Mofetil	Mylan Pharmaceuticals Inc.	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    00378-4472	Mycophenolate Mofetil	Mylan Pharmaceuticals Inc.	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    00781-2067	Mycophenolate Mofetil	Sandoz Inc	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    00781-5175	Mycophenolate Mofetil	Sandoz Inc	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    16729-0019	mycophenolate mofetil	Accord Healthcare Inc.	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET
+    16729-0094	mycophenolate mofetil	Accord Healthcare Inc.	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    17478-0422	Mycophenolate Mofetil	Akorn, Inc.	500 mg/20mL MYCOPHENOLATE MOFETIL	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    17478-0957	Mycophenolate Mofetil	Akorn, Inc.	500 mg/20mL MYCOPHENOLATE MOFETIL	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    42023-0172	Mycophenolate Mofetil	Par Pharmaceutical, Inc.	500 mg/20mL MYCOPHENOLATE MOFETIL	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    42658-0101	Mycophenolate Mofetil	Hisun Pharmaceuticals USA, Inc.	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    42658-0501	Mycophenolate Mofetil	Hisun Pharmaceuticals USA, Inc.	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    50090-2246	Mycophenolate mofetil	A-S Medication Solutions	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    50090-2541	mycophenolate mofetil	A-S Medication Solutions	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET
+    50090-4275	Mycophenolate Mofetil	A-S Medication Solutions	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    50268-0581	Mycophenolate mofetil	AvPAK	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    51079-0379	Mycophenolate Mofetil	Mylan Institutional Inc.	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    51079-0721	Mycophenolate Mofetil	Mylan Institutional Inc.	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    55154-5382	Mycophenolate Mofetil	Cardinal Health	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    55154-6262	Mycophenolate Mofetil	Cardinal Health	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    59746-0267	Mycophenolate Mofetil	JUBILANT CADISTA PHARMACEUTICALS, INC.	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    59746-0268	Mycophenolate Mofetil	JUBILANT CADISTA PHARMACEUTICALS, INC.	500 mg/1 MYCOPHENOLATE MOFETIL
+    59762-0702	mycophenolate mofetil	Greenstone LLC	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    59762-0703	mycophenolate mofetil	Greenstone LLC	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    60429-0059	Mycophenolate Mofetil	Golden State Medical Supply, Inc.	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    60429-0070	Mycophenolate Mofetil	Golden State Medical Supply, Inc.	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    60505-2967	Mycophenolate Mofetil	Apotex Corp	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, COATED
+    60505-2968	Mycophenolate Mofetil	Apotex Corp	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    60687-0427	Mycophenolate Mofetil	American Health Packaging	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    60687-0438	Mycophenolate mofetil	American Health Packaging	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    60951-0734	Mycophenolate Mofetil	Qualitest Pharmaceuticals	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    60951-0735	Mycophenolate Mofetil	Qualitest Pharmaceuticals	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET
+    64380-0725	Mycophenolate mofetil	Strides Pharma Science Limited	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    64380-0726	Mycophenolate mofetil	Strides Pharma Science Limited	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    65841-0680	Mycophenolate Mofetil	Cadila Healthcare Limited	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    65841-0681	Mycophenolate Mofetil	Cadila Healthcare Limited	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    66689-0307	Mycophenolate Mofetil	VistaPharm, Inc.	200 mg/mL MYCOPHENOLATE MOFETIL	POWDER, FOR SUSPENSION
+    67877-0225	Mycophenolate Mofetil	Ascend Laboratories, LLC	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    67877-0230	Mycophenolate mofetil	Ascend Laboratories, LLC	200 mg/mL MYCOPHENOLATE MOFETIL	POWDER, FOR SUSPENSION
+    67877-0266	mycophenolate mofetil	Ascend Laboratories, LLC	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    68084-0177	Mycophenolate Mofetil	American Health Packaging	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    68084-0178	Mycophenolate Mofetil	American Health Packaging	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET
+    68084-0587	Mycophenolate Mofetil	American Health Packaging	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    68084-0588	Mycophenolate Mofetil	American Health Packaging	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, COATED
+    68084-0795	Mycophenolate Mofetil	American Health Packaging	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    68084-0801	Mycophenolate mofetil	American Health Packaging	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET
+    68254-5000	MYCOPHENOLATE MOFETIL	CONCORD BIOTECH LIMITED	250 mg/1 MYCOPHENOLATE MOFETIL
+    68382-0130	Mycophenolate Mofetil	Zydus Pharmaceuticals (USA) Inc.	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    68382-0131	Mycophenolate Mofetil	Zydus Pharmaceuticals (USA) Inc.	500 mg/1 MYCOPHENOLATE MOFETIL	TABLET, FILM COATED
+    68382-0669	Mycophenolate Mofetil	Zydus Pharmaceuticals (USA) Inc.	500 mg/20mL MYCOPHENOLATE MOFETIL	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    69189-0164	Mycophenolate Mofetil	Avera McKennan Hospital	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    70748-0186	MYCOPHENOLATE MOFETIL	Lupin Pharmaceuticals, Inc.	250 mg/1 MYCOPHENOLATE MOFETIL	CAPSULE
+    70771-1084	Mycophenolate Mofetil	Cadila Healthcare Limited	500 mg/20mL MYCOPHENOLATE MOFETIL	INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION
+    71610-0033	Mycophenolate Mofetil	Aphena Pharma Solutions - Tennessee, LLC	500 mg/1 MYCOPHENOLATE MOFETIL
+Teriflunomide
+    68462-0311	teriflunomide	Glenmark Pharmaceuticals Inc., USA	7 mg/1 TERIFLUNOMIDE	TABLET, FILM COATED
+    68462-0312	teriflunomide	Glenmark Pharmaceuticals Inc., USA	14 mg/1 TERIFLUNOMIDE	TABLET, FILM COATED
+    69238-1303	Teriflunomide	Amneal Pharmaceuticals NY LLC	7 mg/1 TERIFLUNOMIDE	TABLET, FILM COATED
+    69238-1304	Teriflunomide	Amneal Pharmaceuticals NY LLC	14 mg/1 TERIFLUNOMIDE	TABLET, FILM COATED
+    69539-0032	Teriflunomide	MSN LABORATORIES PRIVATE LIMITED	7 mg/1 TERIFLUNOMIDE	TABLET, FILM COATED
+    69539-0033	Teriflunomide	MSN LABORATORIES PRIVATE LIMITED	14 mg/1 TERIFLUNOMIDE	TABLET, FILM COATED
+Everolimus
+    49884-0119	Everolimus	Par Pharmaceutical, Inc.	2.5 mg/1 EVEROLIMUS	TABLET
+    49884-0125	Everolimus	Par Pharmaceutical, Inc.	5 mg/1 EVEROLIMUS	TABLET
+    49884-0127	Everolimus	Par Pharmaceutical, Inc.	7.5 mg/1 EVEROLIMUS	TABLET
+Sirolimus
+    50268-0718	Sirolimus	AvPAK	1 mg/1 SIROLIMUS	TABLET
+    55111-0653	Sirolimus	Dr. Reddys Laboratories Limited	1 mg/1 SIROLIMUS	TABLET
+    55111-0654	Sirolimus	Dr. Reddys Laboratories Limited	2 mg/1 SIROLIMUS	TABLET
+    59762-1001	Sirolimus	Greenstone LLC	.5 mg/1 SIROLIMUS	TABLET, SUGAR COATED
+    59762-1002	Sirolimus	Greenstone LLC	1 mg/1 SIROLIMUS	TABLET, SUGAR COATED
+    59762-1003	Sirolimus	Greenstone LLC	2 mg/1 SIROLIMUS	TABLET, SUGAR COATED
+    59762-1205	Sirolimus	Greenstone LLC	1 mg/mL SIROLIMUS	SOLUTION
+    65841-0771	sirolimus	Cadila Healthcare Limited	.5 mg/1 SIROLIMUS	TABLET, FILM COATED
+    66689-0347	Sirolimus	VistaPharm, Inc.	1 mg/mL SIROLIMUS	SOLUTION
+    68084-0915	Sirolimus	American Health Packaging	1 mg/1 SIROLIMUS	TABLET
+    68084-0956	Sirolimus	American Health Packaging	.5 mg/1 SIROLIMUS	TABLET, FILM COATED
+    68382-0520	sirolimus	Zydus Pharmaceuticals (USA) Inc.	.5 mg/1 SIROLIMUS	TABLET, FILM COATED
+    69238-1594	Sirolimus	Amneal Pharmaceuticals NY LLC	1 mg/mL SIROLIMUS	SOLUTION
+    70954-0075	Sirolimus	Novitium Pharma LLC	1 mg/mL SIROLIMUS	SOLUTION
+
+

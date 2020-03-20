@@ -1,0 +1,1136 @@
+##########
+## COPD ##
+##########
+## ICD-9-CM Vol. 1
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE AND ALLIED CONDITIONS (490-496)
+491 Chronic bronchitis
+    491.0 Simple chr bronchitis
+    491.1 Mucopurul chr bronchitis
+    491.2 Obstructive chronic bronchitis
+        491.20 Obst chr bronc w/o exac
+        491.21 Obst chr bronc w(ac) exac
+        491.22 Obst chr bronc w ac bronc
+    491.8 Chronic bronchitis NEC
+    491.9 Chronic bronchitis NOS
+492 Emphysema
+    492.0 Emphysematous bleb
+    492.8 Emphysema NEC
+493 Asthma
+    493.2 Chronic obstructive asthma
+        493.20 Chronic obst asthma NOS
+        493.21 Ch ob asthma w stat asth
+        493.22 Ch obst asth w (ac) exac
+494 Bronchiectasis 
+    494.0 Bronchiectas w/o ac exac
+    494.1 Bronchiectasis w ac exac
+495 Extrinsic allergic alveolitis
+    495.0 Farmers lung
+    495.1 Bagassosis
+    495.2 Bird-fanciers lung
+    495.3 Suberosis
+    495.4 Malt workers lung
+    495.5 Mushroom workers lung
+    495.6 Mapl bark-stripprs lung
+    495.7 Ventilation pneumonit
+    495.8 Allerg alveol/pneum NEC
+    495.9 Allerg alveol/pneum NOS
+496 Chronic airway obstruction not elsewhere classified
+    496 Chr airway obstruct NEC
+OTHER METABOLIC AND IMMUNITY DISORDERS (270-279)
+273 Disorders of plasma protein metabolism
+    273.4 Alpha-1-antitrypsin def
+PNEUMOCONIOSES AND OTHER LUNG DISEASES DUE TO EXTERNAL AGENTS (500-508)
+500 Coal workers pneumoconiosis
+501 Asbestosis
+502 Pneumoconiosis due to other silica or silicates
+503 Pneumoconiosis due to other inorganic dust
+504 Pneumonopathy due to inhalation of other dust
+505 Pneumoconiosis unspecified
+506 Respiratory conditions due to chemical fumes and vapors
+    506.4 Fum/vapor chr resp cond
+507 Pneumonitis due to solids and liquids
+508 Respiratory conditions due to other and unspecified external agents
+OTHER DISEASES OF RESPIRATORY SYSTEM (510-519)
+510 Empyema
+511 Pleurisy
+512 Pneumothorax and air leak
+513 Abscess of lung and mediastinum
+    513.0 Abscess of lung
+514 Pulmonary congestion and hypostasis
+    514 Pulm congest/hypostasis
+515 Postinflammatory pulmonary fibrosis
+    515 Postinflam pulm fibrosis
+516 Other alveolar and parietoalveolar pneumonopathy
+    516.0 Pul alveolar proteinosis
+    516.1 Idio pulm hemosiderosis
+    516.2 Pulm alveolar microlith
+    516.3 Idiopathic interstitial pneumonia
+        516.30 Idiopath inters pneu NOS
+        516.31 Idiopath pulmon fibrosis
+        516.32 Idio non-spec inter pneu
+        516.33 Acute interstitial pneum
+        516.34 Resp brncio interst lung
+        516.35 Idiopth lym interst pneu
+        516.36 Cryptogenic organiz pneu
+        516.37 Desquamatv interst pneu
+    516.6 Interstitial lung diseases of childhood
+        516.61 Neuroend cell hyprpl inf
+        516.62 Pulm interstitl glycogen
+        516.63 Surfactant mutation lung
+        516.64 Alv cap dysp w vn misaln
+        516.69 Oth intrst lung dis chld
+    516.8 Alveol pneumonopathy NEC
+    516.9 Alveol pneumonopathy NOS
+517 Lung involvement in conditions classified elsewhere
+    517.1 Rheumatic pneumonia
+    517.2 Syst sclerosis lung dis
+    517.3 Acute chest syndrome
+    517.8 Lung involv in oth dis
+518 Other diseases of lung
+    518.0 Pulmonary collapse
+    518.1 Interstitial emphysema
+    518.2 Compensatory emphysema
+    518.3 Pulmonary eosinophilia
+    518.4 Acute lung edema NOS
+    518.5 Pulmonary insufficiency following trauma and surgery
+        518.51 Ac resp flr fol trma/srg
+        518.52 Ot pul insuf fol trm/srg
+        518.53 Ac/chr rsp flr fol tr/sg
+    518.6 Alrgc brncpul asprglosis
+    518.7 Transfsn rel ac lung inj
+    518.8 Other disease of lung
+        518.81 Acute respiratry failure
+        518.82 Other pulmonary insuff
+        518.83 Chronic respiratory fail
+        518.84 Acute & chronc resp fail
+        518.89 Other lung disease NEC
+519 Other diseases of respiratory system
+    519.0 Tracheostomy complications
+    519.1 Other diseases of trachea and bronchus, not elsewhere classified
+    519.2 Mediastinitis
+    519.3 Mediastinum disease NEC
+    519.4 Disorders of diaphragm
+    519.8 Resp system disease NEC
+    519.9 Resp system disease NOS
+## ## Cooke et al. 2011
+## ## ## https://doi.org/10.1186/1472-6963-11-37
+"We did not include 490 - Bronchitis, not specified as acute or chronic in
+our administrative definition of COPD because the definition itself lacks
+specificity which increases the concern about misclassification [23,24]."
+491 Chronic bronchitis
+492 Emphysema
+493.2 Chronic obstructive asthma
+496 Chronic airway obstruction NOC
+
+
+############
+## Cancer ##
+############
+## ICD-9-CM Vol. 1
+NEOPLASMS (140-239)
+MALIGNANT NEOPLASM OF LIP, ORAL CAVITY, AND PHARYNX (140-149)
+MALIGNANT NEOPLASM OF DIGESTIVE ORGANS AND PERITONEUM (150-159)
+MALIGNANT NEOPLASM OF RESPIRATORY AND INTRATHORACIC ORGANS (160-165)
+MALIGNANT NEOPLASM OF BONE, CONNECTIVE TISSUE, SKIN, AND BREAST (170-176)
+MALIGNANT NEOPLASM OF GENITOURINARY ORGANS (179-189)
+MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED SITES (190-199)
+    190 Malignant neoplasm of eye
+        190.0 Malign neopl eyeball
+        190.1 Malign neopl orbit
+        190.2 Mal neo lacrimal gland
+        190.3 Mal neo conjunctiva
+        190.4 Malign neopl cornea
+        190.5 Malign neopl retina
+        190.6 Malign neopl choroid
+        190.7 Mal neo lacrimal duct
+        190.8 Malign neopl eye NEC
+        190.9 Malign neopl eye NOS
+    191 Malignant neoplasm of brain
+        191.0 Malign neopl cerebrum
+        191.1 Malig neo frontal lobe
+        191.2 Mal neo temporal lobe
+        191.3 Mal neo parietal lobe
+        191.4 Mal neo occipital lobe
+        191.5 Mal neo cereb ventricle
+        191.6 Mal neo cerebellum NOS
+        191.7 Mal neo brain stem
+        191.8 Malig neo brain NEC
+        191.9 Malig neo brain NO
+    192 Malignant neoplasm of other and unspecified parts of nervous system
+        192.0 Mal neo cranial nerves
+        192.1 Mal neo cerebral mening
+        192.2 Mal neo spinal cord
+        192.3 Mal neo spinal meninges
+        192.8 Mal neo nervous syst NEC
+        192.9 Mal neo nervous syst NOS
+    193 Malignant neoplasm of thyroid gland
+    194 Malignant neoplasm of other endocrine glands and related structures
+        194.0 Malign neopl adrenal
+        194.1 Malig neo parathyroid
+        194.3 Malig neo pituitary
+        194.4 Malign neo pineal gland
+        194.5 Mal neo carotid body
+        194.6 Mal neo paraganglia NEC
+        194.8 Mal neo endocrine NEC
+        194.9 Mal neo endocrine NOS
+    195 Malignant neoplasm of other and ill-defined sites
+        195.0 Mal neo head/face/neck
+        195.1 Malign neopl thorax
+        195.2 Malig neo abdomen
+        195.3 Malign neopl pelvis
+        195.4 Malign neopl arm
+        195.5 Malign neopl leg
+        195.8 Malig neo site NEC
+    196 Secondary and unspecified malignant neoplasm of lymph nodes
+        196.0 Mal neo lymph-head/neck
+        196.1 Mal neo lymph-intrathor
+        196.2 Mal neo lymph intra-abd
+        196.3 Mal neo lymph-axilla/arm
+        196.5 Mal neo lymph-inguin/leg
+        196.6 Mal neo lymph-intrapelv
+        196.8 Mal neo lymph node-mult
+        196.9 Mal neo lymph node NOS
+    197 Secondary malignant neoplasm of respiratory and digestive systems
+        197.0 Secondary malig neo lung
+        197.1 Sec mal neo mediastinum
+        197.2 Second malig neo pleura
+        197.3 Sec malig neo resp NEC
+        197.4 Sec malig neo sm bowel
+        197.5 Sec malig neo lg bowel
+        197.6 Sec mal neo peritoneum
+        197.7 Second malig neo liver
+        197.8 Sec mal neo GI NEC
+    198 Secondary malignant neoplasm of other specified sites
+        198.0 Second malig neo kidney
+        198.1 Sec malig neo urin NEC
+        198.2 Secondary malig neo skin
+        198.3 Sec mal neo brain/spine
+        198.4 Sec malig neo nerve NEC
+        198.5 Secondary malig neo bone
+        198.6 Second malig neo ovary
+        198.7 Second malig neo adrenal
+        198.8 Secondary malignant neoplasm of; other specified sites
+            198.81 Second malig neo breast
+            198.82 Second malig neo genital
+            198.89 Secondary malig neo NEC
+    199 Malignant neoplasm w/o specification of site
+        199.0 Malig neo disseminated
+        199.1 Malignant neoplasm NOS
+        199.2 Malig neopl-transp organ
+MALIGNANT NEOPLASM OF LYMPHATIC AND HEMATOPOIETIC TISSUE (200-208)
+NEUROENDOCRINE TUMORS (209)
+BENIGN NEOPLASMS (210-229)
+CARCINOMA IN SITU (230-234)
+NEOPLASMS OF UNCERTAIN BEHAVIOR (235-238)
+NEOPLASMS OF UNSPECIFIED NATURE (239)
+239 Neoplasms of unspecified nature
+    239.0 Digestive neoplasm NOS
+    239.1 Respiratory neoplasm NOS
+    239.2 Bone/skin neoplasm NOS
+    239.3 Breast neoplasm NOS
+    239.4 Bladder neoplasm NOS
+    239.5 Other gu neoplasm NOS
+    239.6 Brain neoplasm NOS
+    239.7 Endocrine/nerv neo NOS
+    239.8 Neoplasms of unspecified nature; other specified sites
+        239.81 Neo retina/choroid NOS
+        239.89 Neoplasm other sites NOS
+    239.9 Neoplasm NOS
+DISEASES OF THE BLOOD AND BLOOD-FORMING ORGANS (280-289)
+285 Other and unspecified anemias
+    285.2 Anemia of chronic disease
+        285.22 Anemia in neoplastic dis
+    285.3  Anemia d/t antineo chemo
+DISEASES OF VEINS AND LYMPHATICS, AND OTHER DISEASES OF CIRCULATORY SYSTEM (451-459)
+457 Noninfectious disorders of lymphatic channels
+    457.0 Postmastect lymphedema
+    457.1 Other lymphedema
+    457.2 Lymphangitis
+    457.8 Noninfect lymph dis NEC
+    457.9 Noninfect lymph dis NOS
+DISEASES OF THE NERVOUS SYSTEM AND SENSE ORGANS (320-389)
+338 Pain, not elsewhere classified
+    338.3 Neoplasm related pain
+V07.31 - Need for prophylactic fluoride administration
+V07.39 - Other prophylac chemothr
+V26.42 - Encounter for fertility preservation counseling
+V26.82 - Encounter for fertility preservation procedure
+PERSONS ENCOUNTERING HEALTH SERVICES FOR SPECIFIC PROCEDURES ... (V50-V59)
+V51 Aftercare involving the use of plastic surgery
+    V51.0 Brst reconst fol mastect
+V58.0 Radiotherapy encounter
+V58.1 Encounter for antineoplastic chemotherapy and immunotherapy
+    V58.11 Antineoplastic chemo enc
+    V58.12 Immunotherapy encounter
+V58.4 Other aftercare following surgery
+    V58.42 Aftercare neoplasm surg
+PERSONS ENCOUNTERING HEALTH SERVICES IN OTHER CIRCUMSTANCES (V60-V69)
+V66 Convalescence and palliative care
+    V66.1 Radiotherapy convalescen
+    V66.2 Chemotherapy convalescen
+V67 Follow-up examination
+    V67.1 Radiotherapy follow-up
+    V67.2 Chemotherapy follow-up
+## ## Ruck et al. 2018
+## ## ## https://doi.org/10.1089/jpm.2018.0003
+"Malignancy-related hospitalizations were identified by a primary ICD-9
+ code between 140 and 239; data were then grouped by cancer type as per
+ the American Medical Informatics Association system [24]."
+## ## Weiner et al. 2003
+## ## ## https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1480106/
+"[...] inpatient and outpatient cancer [ICD-9] codes for a set of 70
+ oncology patients without leukemia/lymphoma who were receiving
+ ambulatory chemotherapy and were admitted within 30 days of
+ [¿last dose of?] chemotherapy."
+Melanoma                        172*
+Breast                          174*, 175*, 239.3
+Colon                           153*, 154*, 235.2
+Gyn                             180*, 182*, 183*, 184*, 236.1, 236.2
+Prostate                        185*, 236.5
+Testes/Male GU                  186*, 187.3, 187.4, 187.9, 236.4, 236.6
+Head and neck                   140–149.9, 160*, 161*, 162*, 195.0
+Urinary Tract                   188*, 189*, 236.7, 236.91, 239.4, 239.5
+Non-melanomatous skin cancer    173*, 238.2
+Non-colon GI                    150–152.9, 155–159.9, 235*, 239.0
+Lung                            162*, 235.9, 239.1
+Brain                           190–192.9, 237.5, 237.6, 239.6
+Bones/soft tissue               170*, 171*, 238.1, 238.2
+Endocrine                       193,  194*, 237.0, 237.4, 239.7
+Pleura/mediastinum              163*, 164*
+Non-specific site               195*, 199*, 238.8, 238.9, 239.8, 239.9
+Lymph node spread               196*
+Secondary cancer                196*, 197*
+
+
+######################-
+## Metastatic cancer ##
+########################
+## ICD-9-CM Vol. 1
+CARCINOMA IN SITU (230-234)
+MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED SITES (190-199)
+196 Secondary and unspecified malignant neoplasm of lymph nodes
+    196.1 Mal neo lymph-intrathor
+    196.2 Mal neo lymph intra-abd
+    196.3 Mal neo lymph-axilla/arm
+    196.5 Mal neo lymph-inguin/leg
+    196.6 Mal neo lymph-intrapelv
+    196.8 Mal neo lymph node-mult
+    196.9 Mal neo lymph node NOS
+197 Secondary malignant neoplasm of respiratory and digestive systems
+    197.0 Secondary malig neo lung
+    197.1 Sec mal neo mediastinum
+    197.2 Second malig neo pleura
+    197.3 Sec malig neo resp NEC
+    197.4 Sec malig neo sm bowel
+    197.5 Sec malig neo lg bowel
+    197.6 Sec mal neo peritoneum
+    197.7 Second malig neo liver
+    197.8 Sec mal neo GI NEC
+198 Secondary malignant neoplasm of other specified sites
+    198.0 Second malig neo kidney
+    198.1 Sec malig neo urin NEC
+    198.2 Secondary malig neo skin
+    198.3 Sec mal neo brain/spine
+    198.4 Sec malig neo nerve NEC
+    198.5 Secondary malig neo bone
+    198.6 Second malig neo ovary
+    198.7 Second malig neo adrenal
+    198.8 Secondary malignant neoplasm of; other specified sites
+        198.81 Second malig neo breast
+        198.82 Second malig neo genital
+        198.89 Secondary malig neo NEC
+199 Malignant neoplasm without specification of site
+    199.0 Malig neo disseminated
+NEUROENDOCRINE TUMORS (209)
+209 Neuroendocrine tumors
+    209.7 Secondary neuroendocrine tumors
+        209.70 Sec neuroendo tumor NOS
+        209.71 Sec neuroend tu dist lym
+        209.72 Sec neuroend tumor-liver
+        209.73 Sec neuroendo tumor-bone
+        209.74 Sec neuroendo tu-periton
+        209.75 Sec Merkel cell ca
+        209.79 Sec neuroend tu oth site
+## ## Thomas et al. 2002
+## ## ## https://doi.org/10.1002/pds.759
+"Advanced‐stage disease (stages II to IV) was defined by claims indicating
+ lymph node involvement or metastases (ICD‐9 codes 196–199.1)."
+## Tagliabue et al. 2006
+## ## https://doi.org/10.1186/1478-7954-4-10
+"We found a relatively high frequency of discrepancies involving cancer
+ from unknown primary site. In 66% of these cases [ICD-9 code 199] was
+ accompanied by specific site codes, but in all cases manual checking
+ showed that the site codes were for metastatic or disseminated cancers,
+ and it was never possible to identify the site of origin of the primary
+ disease."
+
+
+
+
+########################
+## Hematologic cancer ##
+########################
+## ICD-9-CM Vol. 1
+MALIGNANT NEOPLASM OF LYMPHATIC AND HEMATOPOIETIC TISSUE (200-208)
+200 Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue
+201 Hodgkins disease
+202 Other malignant neoplasms of lymphoid and histiocytic tissue
+203 Multiple myeloma and immunoproliferative neoplasms
+204 Lymphoid leukemia
+205 Myeloid leukemia
+206 Monocytic leukemia
+207 Other specified leukemia
+208 Leukemia of unspecified cell type
+DISEASES OF THE BLOOD AND BLOOD-FORMING ORGANS (280-289)
+284.0 Constitutional aplastic anemia
+284.1 Pancytopenia
+284.2 Myelophthisis
+    284.2 Myelophthisis
+284.8 Other specified aplastic anemias
+284.9 Aplastic anemia NOS
+284 Aplastic anemia and other bone marrow failure syndromes
+285 Other and unspecified anemias
+286 Coagulation defects
+287 Purpura and other hemorrhagic conditions
+288 Diseases of white blood cells
+289 Other diseases of blood and blood-forming organs
+    289.8 Other specified diseases of blood and blood-forming organs
+        289.81 Prim hypercoagulable st
+        289.82 Sec hypercoagulable st
+        289.83 Myelofibrosis
+        289.84 Heparin-indu thrombocyto
+        289.89 Blood diseases NEC
+## Tagliabue et al. 2006
+## ## https://doi.org/10.1186/1478-7954-4-10
+"Phekoo et al. found that 20% of [hematologic cancer] cases had discordant
+ diagnoses."
+
+
+
+
+####################################
+## Diabetes ("insulin requiring") ##
+####################################
+## MIMIC-III
+## ## D_ITEMS.ITEMID
+## ## ## Insulin
+7914    ## Insulin Guideline
+7920    ## humalog insulin pump
+4475    ## Insulin
+2432    ## insulin
+2869    ## PORK INSULIN U/HR
+6232    ## reg insulin
+42763   ## PORK INSULIN GTT
+30310   ## Insulin Drip
+30045   ## Insulin
+30100   ## Regular Insulin
+44354   ## insulin carrier
+44518   ## Insulin Carrier
+45186   ## Insulin carrier
+45322   ## NS Insulin Carrier
+223257  ## Insulin - 70/30
+223258  ## Insulin - Regular
+223259  ## Insulin - NPH
+223260  ## Insulin - Glargine
+223261  ## Insulin - Humalog 75/25
+223262  ## Insulin - Humalog
+228236  ## Insulin pump
+## ICD-9-CM Vol. 1
+## ## Insulin
+PERSONS ENCOUNTERING HEALTH SERVICES FOR SPECIFIC PROCEDURES ... (V50-V59)
+V58 Encounter for other and unspecified procedures and aftercare
+    V53 Fitting and adjustment of other device
+        V53.9 Other and unspecified device
+            V53.91 Fit/adjust insulin pump
+        V58.6 Long-term (current) drug use
+            V58.67 Long-term use of insulin
+PERSONS ENCOUNTERING HEALTH SERVICES IN OTHER CIRCUMSTANCES (V60-V69)
+V65 Other persons seeking consultation
+    V65.4 Other counseling, not elsewhere classified
+        V65.46 Insulin pump training
+DRUGS, MEDICINAL AND BIOLOGICAL SUBSTANCES CAUSING ADVERSE EFFECTS IN THERAPEUTIC USE (E930-E949)
+E932 Hormones and synthetic substitutes causing adverse effects
+    E932.3 Adv eff insulin/antidiab
+## ## Diabetes mellitus
+DISEASES OF OTHER ENDOCRINE GLANDS (249-259)
+249 Secondary diabetes mellitus
+250 Diabetes mellitus
+    ## ## DMI
+    250.01 DMI wo cmp nt st uncntrl
+    250.03 DMI wo cmp uncntrld
+    250.11 DMI keto nt st uncntrld
+    250.13 DMI ketoacd uncontrold
+    250.21 DMI hprsm nt st uncntrld
+    250.23 DMI hprosmlr uncontrold
+    250.31 DMI o cm nt st uncntrld
+    250.33 DMI oth coma uncontrold
+    250.41 DMI renl nt st uncntrld
+    250.43 DMI renal uncntrld
+    250.51 DMI ophth nt st uncntrld
+    250.53 DMI ophth uncntrld
+    250.61 DMI neuro nt st uncntrld
+    250.63 DMI neuro uncntrld
+    250.71 DMI circ nt st uncntrld
+    250.73 DMI circ uncntrld
+    250.81 DMI oth nt st uncntrld
+    250.83 DMI oth uncntrld
+    250.91 DMI unspf nt st uncntrld
+    250.93 DMI unspf uncntrld
+    ## ## DMII
+    250.00 DMII wo cmp nt st uncntr
+    250.02 DMII wo cmp uncntrld
+    250.10 DMII keto nt st uncntrld
+    250.12 DMII ketoacd uncontrold
+    250.20 DMII hprsm nt st uncntrl
+    250.22 DMII hprosmlr uncontrold
+    250.30 DMII oth coma nt st uncntrld
+    250.32 DMII oth coma uncontrold
+    250.40 DMII renl nt st uncntrld
+    250.42 DMII renal uncntrld
+    250.50 DMII ophth nt st uncntrl
+    250.52 DMII ophth uncntrld
+    250.60 DMII neuro nt st uncntrl
+    250.62 DMII neuro uncntrld
+    250.70 DMII circ nt st uncntrld
+    250.72 DMII circ uncntrld
+    250.80 DMII oth nt st uncntrld
+    250.82 DMII oth uncntrld
+    250.90 DMII unspf nt st uncntrl
+    250.92 DMII unspf uncntrld
+COMPLICATIONS MAINLY RELATED TO PREGNANCY (640-649)
+648.0 Diabetes mellitus in mother w/ complications
+    ## ## Gestational diabetes
+    648.00 Diabetes in preg-unspec
+    648.01 Diabetes-delivered
+    648.02 Diabetes-delivered w p/p
+    648.03 Diabetes-antepartum
+    648.04 Diabetes-postpartum
+## Yeaw et al. 2012
+## ## https://doi.org/10.18553/jmcp.2012.18.1.21.
+## ## ## https://s3.amazonaws.com/ajmc/_media/_pdf/AJMC_02_2018_Agiro%20eAppendix.pdf
+Type 1 DM diagnosis 
+    ICD-9-CM Codes
+        250.x1, 250.x3, V53.91 
+    GPI Codes
+        2710
+Diabetes diagnoses
+    ICD-9-CM Codes
+        250.xx, 357.2x, 362.0x, 366.41, 648.0x
+Oral antidiabetic drug medication
+    GPI Codes
+        2750, 2715, 2799, 2710, 2728, 2717, 2755, 2720, 2760
+Diabetic testing strips 
+    GPI Codes
+        94100030006100, 94100030009800, 94100030006000
+Basal insulin
+    GPI Codes
+        27104003, 27104006, 27101020, 27101040,
+        27102040, 27103020, 27103040, 27104020,
+        27104030, 27101050, 27101030, 27102030,
+        27102050, 27103030, 27104050, 27102020
+Bolus insulin
+    GPI Codes
+        27104005, 27104002, 27104004, 27101010,
+        27101060, 27102010, 27102060, 27103010,
+        27103060, 27104010, 27104015
+Premixed insulin
+    GPI Codes
+        27104080, 27104070, 27103070, 27104090
+
+
+
+
+#################################
+## Heart failure (NYHA III/IV) ##
+#################################
+## ICD-9-CM Vol. 1
+## ## Heart failure
+## ## ## NOTE: No ICD-9 codes direcctly correspond with NYHA classes
+OTHER FORMS OF HEART DISEASE (420-429)
+    428 Heart failure
+        428.0 CHF NOS
+        428.1 Left heart failure
+        428.2 Systolic heart failure
+        428.3 Diastolic heart failure
+        428.4 Combined systolic and diastolic heart failure
+        428.9 Heart failure NOS
+
+
+
+
+###########################
+## Chronic renal failure ##
+###########################
+## ICD-9-CM Vol. 1
+## ## Chronic kidney disease 
+NEPHRITIS, NEPHROTIC SYNDROME, AND NEPHROSIS (580-589)
+585 Chronic kidney disease (CKD)
+    585.1 Chro kidney dis stage I
+    585.2 Chro kidney dis stage II
+    585.3 Chr kidney dis stage III
+    585.4 Chr kidney dis stage IV
+    585.5 Chron kidney dis stage V
+    585.6 End stage renal disease
+    585.9 Chronic kidney dis NOS
+HYPERTENSIVE DISEASE (401-405)
+403 Hypertensive chronic disease
+    403.0 Malignant hypertensive kidney disease
+        403.00 Mal hy kid w cr kid I-IV
+        403.01 Mal hyp kid w cr kid V
+    403.1 Benign hypertensive kidney disease
+        403.10 Ben hy kid w cr kid I-IV
+        403.11 Ben hyp kid w cr kid V
+    403.9 Unspecified hypertensive kidney disease
+        403.90 Hy kid NOS w cr kid I-IV
+        403.91 Hyp kid NOS w cr kid V
+404 Hypertensive heart and chronic disease
+    404.0 Malignant hypertensive heart and disease
+        404.00 Mal hy ht/kd I-IV w/o hf
+        404.01 Mal hyp ht/kd I-IV w hf
+        404.02 Mal hy ht/kd st V w/o hf
+        404.03 Mal hyp ht/kd stg V w hf
+    404.1 Benign hypertensive heart and disease
+        404.10 Ben hy ht/kd I-IV w/o hf
+        404.11 Ben hyp ht/kd I-IV w hf
+        404.12 Ben hy ht/kd st V w/o hf
+        404.13 Ben hyp ht/kd stg V w hf
+    404.9 Unspecified hypertensive heart and disease
+        404.90 Hy ht/kd NOS I-IV w/o hf
+        404.91 Hyp ht/kd NOS I-IV w hf
+        404.92 Hy ht/kd NOS st V w/o hf
+        404.93 Hyp ht/kd NOS st V w hf
+## ## Dialysis
+PERSONS WITH A CONDITION INFLUENCING THEIR HEALTH STATUS (V40-V49)
+V45 Other postprocedural states
+    V45.1 Renal dialysis status postprocedural state
+        V45.11 Renal dialysis status
+        V45.12 Noncmplnt w renal dialys
+PERSONS ENCOUNTERING HEALTH SERVICES FOR SPECIFIC PROCEDURES ... (V50-V59)
+V56 Encounter for dialysis and dialysis catheter care
+    V56.0 Renal dialysis encounter
+    V56.1 Ft/adj xtrcorp dial cath
+    V56.2 Fit/adj perit dial cath
+    V56.3 Encounter for adequacy testing for dialysis
+        V56.31 Hemodialysis testing
+        V56.32 Peritoneal dialysis test
+    V56.8 Dialysis encounter, NEC
+SURG & MEDICAL PROCEDURES AS CAUSE OF ABNORMAL PATIENT ... (E878-E879)
+E879 Other procedures without mention of misadventure at the time of ...
+    E879.1  Abn react-renal dialysis
+OPERATIONS ON THE CARDIOVASCULAR SYSTEM (35-39)
+39 Other operations on vessels
+    39.2 Other shunt or vascular bypass
+        39.27 Arteriovenostomy for renal dialysis
+    39.9 Other operations on vessels
+        39.95 Hemodialysis
+        39.42 Revision of arteriovenous shunt for renal dialysis
+        39.43 Removal of arteriovenous shunt for renal dialysis
+        38.95 Venous catheterization for renal dialysis
+OPERATIONS ON THE DIGESTIVE SYSTEM (42-54)
+54 Other operations on abdominal region
+    54.9 Other operations of abdominal region
+        54.98 Peritoneal dialysis
+NONSPECIFIC ABNORMAL FINDINGS (790-796)
+792 Nonspecific abnormal findings in other body substances
+    792.5 Cloudy dialysis effluent
+COMPLICATIONS OF SURG AND MEDICAL CARE, NOT ELSEWHERE CLASSIFIED (996-999)
+996 Complications peculiar to certain specified procedures
+    996.5 Mech compl other specified prosthetic device, implant, graft
+        996.56 Comp-periton dialys cath
+    996.6 Infection and inflammation to prosthetic device, implant, graft
+        996.68 React-periton dialy cath
+    996.7 Other complications of internal device, implant, and graft
+        996.73 Comp-ren dialys dev/grft
+
+
+
+
+###################
+## HIV infection ##
+###################
+## ICD-9-CM Vol. 1
+## ## HIV-1/2
+HUMAN IMMUNODEFICIENCY VIRUS (HIV) INFECTION (042-042)
+042 Human immunodeficiency virus [HIV] disease
+    042 Human immuno virus dis
+OTHER DISEASES DUE TO VIRUSES AND CHLAMYDIAE (070-079)
+079 Viral and chlamydial infection in conditions CE and unspecified site
+    079.5 Retrovirus
+        079.53 HIV-2 infection oth dis
+INTESTINAL INFECTIOUS DISEASES (001-009)
+    007.2 Coccidiosis
+OTHER METABOLIC AND IMMUNITY DISORDERS (270-279)
+    272 Disorders of lipoid metabolism
+        272.6 Lipodystrophy
+NONSPECIFIC ABNORMAL FINDINGS (790-796)
+795 Other and nonspecific ... test findings
+    795.7 Other nonspecific immunological findings
+        795.71 Nonspecific Evidence of HIV
+V08 Asymptomatic human immunodeficiency virus [HIV] infection status
+    V08 Asymptomatic HIV+ status
+PERSONS ENCOUNTERING HEALTH SERVICES IN OTHER CIRCUMSTANCES (V60-V69)
+V65 Other persons seeking consultation
+    V65.44 HIV counseling
+SUPPLEMENTARY CLASS ... CONTACT W HEALTH SERVICES (V01-V91)
+V72 Special investigations and examinations
+    V72.6 Laboratory examination
+        V72.60 Laboratory exam NOS
+        V72.61 Antibody response exam
+        V72.62 Routine physicl lab exam
+        V72.63 Pre-procedure lab exam
+        V72.69 Laboratory exam NEC
+## ## Superinfections and sequelae
+## ## ## Kaposi Sarcoma
+VIRAL DISEASES ACCOMPANIED BY EXANTHEM (050-059)
+058 Other human herpesvirus
+    058.8 Other human herpesvirus infections
+        058.89 Other human herpesvirus infection
+## ## ## PML
+POLIO AND OTHER NON-ARTHOPOD VIRAL AND PRION DISEASES OF THE CNS (045-049)
+046 Slow virus infections and prion diseases of central nervous system
+    046.3 Progressive multifocal leukoencephalopathy
+## ## ## CMV
+PNEUMONIA AND INFLUENZA (480-488)
+484 Pneumonia in infectious diseases classified elsewhere
+    484.1 Pneum w cytomeg incl dis
+## ## ## Pneumocystis pneumonia
+OTHER INFECTIOUS AND PARASITIC DISEASES (130-136)
+136 Other and unspecified infectious and parasitic diseases
+    136.3 Pneumocystosis
+## ## ## Crypto
+INFLAMMATORY DISEASES OF THE CENTRAL NERVOUS SYSTEM (320-326)
+321 Meningitis due to other organisms
+    321.0 Cryptococcal meningitis
+## ## ## Toxo
+OTHER INFECTIOUS AND PARASITIC DISEASES (130-136)
+130 Toxoplasmosis
+    130.0 Toxoplasm meningoenceph
+    130.1 Toxoplasm conjunctivitis
+    130.2 Toxoplasm chorioretinit
+    130.3 Toxoplasma myocarditis
+    130.4 Toxoplasma pneumonitis
+    130.5 Toxoplasma hepatitis
+    130.7 Toxoplasmosis site NEC
+    130.8 Multisystem toxoplasmos
+    130.9 Toxoplasmosis NOS
+## CDC WONDER 1998
+## ## https://wonder.cdc.gov/wonder/prevguid/m0032908/m0032908.asp
+"The current 042-044 series of codes has been replaced with a single code,
+ 042, for HIV disease. A new code, V08, has been created for asymptomatic 
+ HIV infection. Code 795.8 has been deleted and a new code, 795.71, 
+ Inconclusive serological findings for Human Immunodeficiency Virus (HIV), 
+ has been created. This code will include inconclusive HIV test findings 
+ in infants. [...]. Patients with inconclusive HIV serology, but no 
+ definitive diagnosis or manifestations of the illness may be assigned
+ code 795.71. [...] Code V72.6 Laboratory examination, should be assigned
+ for patients seen only for HIV testing."
+##  Freiberg et al. 2011
+## ## https://doi.org/10.1161/circoutcomes.110.957415
+"HIV infection was defined as a participant with 1 inpatient and/or 2
+ outpatient International Classification of Diseases (ICD)-9 codes for HIV
+ infection and confirmed by the participant’s presence in the immunology
+ case registry."
+
+
+
+
+###############
+## Cirrhosis ##
+###############
+## ICD-9-CM Vol. 1/2
+OTHER DISEASES OF DIGESTIVE SYSTEM (570-579)
+570 Acute and subacute necrosis of liver
+    570 Acute necrosis of liver
+571 Chronic liver disease and cirrhosis
+    571.0 Alcoholic fatty liver
+    571.1 Ac alcoholic hepatitis
+    571.2 Alcohol cirrhosis liver
+    571.3 Alcohol liver damage NOS
+    571.4 Chronic hepatitis
+        571.40 Chronic hepatitis NOS
+        571.41 Chr persistent hepatitis
+        571.42 Autoimmune hepatitis
+        571.49 Chronic hepatitis NEC
+    571.5 Cirrhosis of liver NOS
+    571.6 Biliary cirrhosis
+    571.8 Chronic liver dis NEC
+    571.9 Chronic liver dis NOS
+572 Liver abscess and sequelae of chronic liver disease
+    572.2 Hepatic encephalopathy
+    572.3 Portal hypertension
+    572.4 Hepatorenal syndrome
+576 Other disorders of biliary tract
+    576.1 Cholangitis
+## ## Correlates and sequelae
+SYMPTOMS (780-789)
+789 Other symptoms involving abdomen and pelvis
+    789.1 Hepatomegaly
+    789.5 Ascites
+        789.59 Ascites NEC
+DISEASES OF THE BLOOD AND BLOOD-FORMING ORGANS (280-289)
+289.4 Hypersplenism
+289.5 Other diseases of spleen
+    289.51 Chr congest splenomegaly
+OTHER DISEASES OF DIGESTIVE SYSTEM (570-579)
+573 Other disorders of liver
+    573.0 Chr passiv congest liver
+    573.1 Hepatitis in viral dis
+    573.2 Hepatitis in oth inf dis
+    573.3 Hepatitis NOS
+    573.4 Hepatic infarction
+    573.5 Hepatopulmonary syndrome
+    573.8 Liver disorders NEC
+    573.9 Liver disorder NOS
+DISEASES OF VEINS AND LYMPHATICS, AND OTHER DISEASES OF CIRCULATORY SYSTEM (451-459)
+456 Varicose veins of other sites
+    456.0 Esophageal varices with bleeding
+    456.1 Esophageal varices without bleeding
+    456.2 Varices in diseases classified elsewhere with bleeding
+        456.20 Bleed esoph var oth dis
+        456.21 Esoph varice oth dis NOS
+## ## ## Hemochromatosis
+OTHER METABOLIC AND IMMUNITY DISORDERS (270-279)
+275.0 Disorders of iron metabolism
+    275.01 Hereditary hemochromatosis
+    275.03 Hemochromatosis NEC
+## ## ## Wilson's disease
+275.1 Disorders of copper metabolism
+    275.1 Dis copper metabolism
+DISORDERS OF THE EYE AND ADNEXA (360-379)
+371 Corneal opacity and other disorders of cornea
+    371.1 Corneal pigmentations and deposits
+        371.14 Kayser-Fleischer ring
+## ## ## Hepar lobatum
+SYPHILIS AND OTHER VENEREAL DISEASES (090-099)
+095 Other forms of late syphilis, with symptoms
+    095.3 Syphilis of liver
+## ## ## Spider angioma
+DISEASES OF ARTERIES, ARTERIOLES, AND CAPILLARIES (440-449)
+448 Disease of capillaries
+    448.1 Nevus, non-neoplastic
+    448.0 Heredit hemorr telangiec
+## ## ## AATD, Abetalipoproteinemia, Tyrosinosis
+OTHER METABOLIC AND IMMUNITY DISORDERS (270-279)
+272 Disorders of lipoid metabolism
+    272.5 Lipoprotein deficiencies 
+273 Disorders of plasma protein metabolism
+    273.4 Alpha-1-antitrypsin def 
+    273.8 Dis plas protein met NEC
+OTHER METABOLIC AND IMMUNITY DISORDERS (270-279)
+270 Disorders of amino-acid transport and metabolism
+    270.2 Other disturbances of aromatic amino-acid metabolism
+## ## ## Pathological carb metabolism
+271 Disorders of carbohydrate transport and metabolism
+    271.0 Glycogenosis
+    271.1 Galactosemia
+    271.2 Hered fructose intoleran
+## ## ## Granulomatosis
+OTHER INFECTIOUS AND PARASITIC DISEASES (130-136)
+135 Sarcoidosis
+    135 Sarcoidosis
+OTHER INFLAMMATORY CONDITIONS OF SKIN AND SUBCUTANEOUS TISSUE (690-698)
+697 Lichen
+    697.0 Lichen planus
+## Nehra et al. 2014
+## ## https://doi.org/10.1097/MCG.0b013e3182688d2f
+"We did not include the ICD-9 code for biliary cirrhosis (571.6) as this
+ code was often associated with early stage PBC or PSC instead of
+ cirrhosis. [...] Most ICD-9 codes had sufficient specificity except
+ cirrhosis without alcohol and ascites, which both had significantly lower
+ specificities (p< .001 for both comparisons). Similarly, each of the
+ codes had a high positive predictive value above 75%, except ascites,
+ which had a significantly lower positive predictive value (p<0.001)."
+## Chrostek et al. 2014
+## ## https:/doi.org/10.1007/s10238-013-0262-5
+"It should not be generalized that the levels of lipids and lipoproteins
+ in liver cirrhosis progressively diminished with the deterioration of
+ liver function. The serum HDL-Ch and LDL-Ch may be considered as markers
+ of severity of liver damage in non-alcoholic cirrhosis, but the
+ triglycerides only in disease of alcoholic origin."
+## Krynytska et al. 2017
+## ## https://doi.org/10.17305/bjbms.2017.2020
+## ## ## NOTE: ## OWR sydrome => 448.0 - Heredit hemorr telangiec
+"HPS is diagnosed in 4-47% of patients with cirrhosis and in 15-20% of
+ candidates for liver transplantation. [...] The diagnosis of HHT is
+ considered if at least three of the four diagnostic criteria are met:
+ spontaneous, recurrent epistaxis, multiple telangiectases at different
+ sites (lips, oral cavity, fingers, and nose), visceral lesions including
+ gastrointestinal telangiectasia, pulmonary PAVMs, hepatic, cerebral and
+ spinal AVMs, as well as family history of HHT."
+## Blich
+## ##  https://doi.org/10.1111/j.1440-1746.2003.03335.x
+"Cirrhosis and portal hypertension are rare manifestations of sarcoid
+ liver disease, each being found in less than 1% of patients with
+ sarcoidosis."
+
+
+
+
+#######################
+## Immunosuppression ##
+#######################
+## ICD-9-CM Vol. 1
+DISEASES OF OTHER ENDOCRINE GLANDS (249-259)
+254 Diseases of thymus gland
+    254.0 Persist hyperplas thymus
+    254.1 Abscess of thymus
+    254.8 Diseases of thymus NEC
+    254.9 Disease of thymus NOS
+OTHER METABOLIC AND IMMUNITY DISORDERS (270-279)
+279 Disorders involving the immune mechanism
+    279.0 Deficieny of humoral immunity
+        279.00 Hypogammaglobulinem NOS
+        279.01 Selective iga immunodef
+        279.02 Selective IgM immunodef
+        279.03 Selective ig defic NEC
+        279.04 Cong hypogammaglobulinem
+        279.05 Immunodefic w hyper-igm
+        279.06 Common variabl immunodef
+        279.09 Humoral immunity def NEC
+    279.1 Deficiency of cell-mediated immunity
+        279.10 Immundef t-cell def NOS
+        279.11 Digeorge syndrome
+        279.12 Wiskott-aldrich syndrome
+        279.13 Nezelof syndrome
+        279.19 Defic cell immunity NOS
+    279.2 Combined immunity defic
+    279.3 Immunity deficiency NOS
+    279.4 Autoimmune disease, not elsewhere classified
+        279.41 Autoimmun lymphprof synd
+        279.49 Autoimmune disease NEC
+    279.5 Graft-versus-host disease
+        279.50 Graft-versus-host NOS
+        279.51 Ac graft-versus-host dis
+        279.52 Chronc graft-vs-host dis
+        279.53 Ac on chrn grft-vs-host
+    279.8 Immune mechanism dis NEC
+    279.9 Immune mechanism dis NOS
+DISEASES OF THE BLOOD AND BLOOD-FORMING ORGANS (280-289)
+284 Aplastic anemia and other bone marrow failure syndromes
+    284.1 Pancytopenia
+        284.11 Antin chemo indcd pancyt
+        284.12 Oth drg indcd pancytopna
+        284.19 Other pancytopenia
+288 Diseases of white blood cells
+    288.0 Neutropenia
+        288.00 Neutropenia NOS
+        288.01 Congenital neutropenia
+        288.02 Cyclic neutropenia
+        288.03 Drug induced neutropenia
+        288.04 Neutropenia d/t infectn
+        288.09 Neutropenia NEC
+    288.1 Function dis neutrophils
+    288.2 Genetic anomaly leukocyt
+    288.3 Eosinophilia
+    288.4 Hemophagocytic syndromes
+    288.5 Decreased white blood cell count category
+        288.50 Leukocytopenia NOS
+        288.51 Lymphocytopenia
+        288.59 Decreased WBC count NEC
+    288.6 Elevated white blood cell count category
+        288.62 Leukemoid reaction
+    288.8 WBC disease NEC
+    288.9 WBC disease NOS
+289 Other diseases of blood and blood-forming organs
+    289.5 Other diseases of spleen
+        289.50 Spleen disease NOS
+        289.51 Chr congest splenomegaly
+        289.52 Splenic sequestration
+        289.53 Neutropenic splenomegaly
+        289.59 Spleen disease NEC
+    289.8 Other specified diseases of blood and blood-forming organs
+        289.83 Myelofibrosis
+OTHER SPECIFIED PERSONAL EXPOSURES AND HISTORY PRESENTING HAZARDS TO HEALTH (V87)
+V87 Other specified personal exposures and history presenting hazards to health
+    V87.4 Personal history of drug therapy
+        V87.41 Hx antineoplastic chemo
+        V87.42 Hx monoclonal drug thrpy
+        V87.44 Hx inhaled steroid thrpy
+        V87.45 Hx systemc steroid thrpy
+        V87.46 Hx immunosuppres thrp
+OTHER METABOLIC AND IMMUNITY DISORDERS (270-279)
+273 Disorders of plasma protein metabolism
+    273.0 Polyclon hypergammaglobu
+    273.1 Monoclon paraproteinemia
+    273.2 Paraproteinemia NEC
+277 Other and unspecified disorders of metabolism
+    277.2 Purine/pyrimid dis NEC ## ADA/PNP deficiency
+    277.6 Defic circul enzyme NEC ## Biotinase deficiency
+NEED FOR ISOLATION FOR OTHER ... HAZARDS ... AND PROPHYLAXIS ... (V07-V09)
+V07 Need for isolation and other prophylactic or treatment measures
+    V07.0 Prophylactic isolation
+    V07.2 Prophylact immunotherapy
+    V07.3 Other prophylactic chemotherapy
+        V07.31 Prophylac fluoride admin
+        V07.39 Other prophylac chemothr
+    V07.8 Prophyl or tx meas NEC
+    V07.9 Prophyl or tx meas NOS
+PERSONS WITH A CONDITION INFLUENCING THEIR HEALTH STATUS (V40-V49)
+V42 Organ or tissue replaced by transplant
+    V42.0 Kidney transplant status
+    V42.1 Heart transplant status
+    V42.2 Heart valve transplant
+    V42.3 Skin transplant status
+    V42.4 Bone transplant status
+    V42.5 Cornea transplant status
+    V42.6 Lung transplant status
+    V42.7 Liver transplant status
+    V42.8 Other specified organ or tissue transplant
+        V42.81 Trnspl status-bne marrow
+        V42.82 Trspl sts-perip stm cell
+        V42.83 Trnspl status-pancreas
+        V42.84 Trnspl status-intestines
+        V42.89 Trnspl status organ NEC
+    V42.9 Transplant status NOS
+PERSONS ENCOUNTERING HEALTH SERVICES FOR SPECIFIC PROCEDURES ... (V50-V59)
+V58.0 Radiotherapy encounter
+V58.1 Encounter for antineoplastic chemotherapy and immunotherapy
+    V58.11 Antineoplastic chemo enc
+    V58.12 Immunotherapy encounter
+V58.2 Blood transfusion, no dx
+V58.4 Other aftercare following surgery
+    V58.42 Aftercare neoplasm surg
+    V58.44 Aftercare organ transplt
+V58.6 Long-term (current) drug use
+    V58.64 Long-term anti-inflamtry
+    V58.65 Long-term use steroids
+    V58.69 Long-term use meds NEC ## Common code for infection r/t chemo
+    V58.83 Therapeutic drug monitor ## Common with V58.61-V58.69 and V42
+MISCELLANEOUS DIAGNOSTIC AND THERAPEUTIC PROCEDURES (87-99)
+99 Other nonoperative procedures
+    99.2 Injor infusion of other therapeutic or prophylactic substance
+        99.28 Injection or infusion of BRM as an antineopl
+DRUGS, MED AND BIO SUBSTANCES CAUSING ADVERSE EFF ... (E930-E949)
+E932 Hormones and synthetic substitutes causing adverse effects
+    E932.0 Adv eff corticosteroids
+E933 Primarily systemic agents causing adverse effects
+    E933.1 Adv eff antineoplastic
+E935 Analgesics, antipyretics, and antirheumatics causing adverse effects
+    E935.5 Adv eff pyrazole deriv
+    E935.6 Adv eff antirheumatics
+## Search terms
+## ## Etiologies and corelates
+Cushing's syndrome 255.0
+Pois-corticosteroids 962.0
+Pneum in aspergillosis 484.6
+Polyclonal hypergammaglobulinemia 273.0
+Cryoglobulinemia 273.2
+Hypergammaglobulinemia, unspecified 273.1 or 289.89
+Immune reconstitution syndrome 279.8
+Mast cell activation, unspecified 279.8
+Monoclonal mast cell activation syndrome 279.8
+Idiopathic mast cell activation syndrome 279.8
+Secondary mast cell activation 279.8
+Acute graft-versus-host disease 279.51
+Chronic graft-versus-host disease 279.52
+Acute on chronic graft-versus-host disease 279.53
+Graft-versus-host disease, unspecified 279.50
+Autoimmune lymphoproliferative syndrome [ALPS] 279.41
+specified disorders involving the immune mechanism, not elsewhere classified 279.8
+Disorder involving the immune mechanism, unspecified 279.9
+Polycythemia vera, Myelodysplasia, Fanconis disease, Idiopathic aplasia
+Lymphoma, Leukemia, HIV infection
+
+
+
+
+#####################
+## Steroid therapy ##
+#####################
+## ICD-9-CM Vol. 1
+POISONING BY DRUGS, MEDICINAL AND BIOLOGICAL SUBSTANCES (960-979)
+962 Poisoning by hormones and synthetic substitutes
+    962.0 Pois-corticosteroids
+MISCELLANEOUS DIAGNOSTIC AND THERAPEUTIC PROCEDURES (87-99)
+99 Other nonoperative procedures
+    99.2 Injection or infusion of other therapeutic or prophylactic substance 
+        99.23 Injection of steroid
+DISEASES OF OTHER ENDOCRINE GLANDS (249-259)
+255 Disorders of adrenal glands
+    255.0 Cushings syndrome
+    255.1 Hyperaldosteronism
+        255.10 Hyperaldosteronism NOS
+        255.11 Glucrtcod-rem aldsternsm
+        255.12 Conn's syndrome
+        255.13 Bartter's syndrome
+        255.14 Secondry aldosternsm NEC
+    255.2 Adrenogenital disorders
+    255.3 Corticoadren overact NEC
+    255.4 Corticoadrenal insufficiency
+        255.41 Glucocorticoid deficient
+        255.42 Mineralcorticoid defcnt
+    255.5 Adrenal hypofunction NEC
+    255.6 Medulloadrenal hyperfunc
+    255.8 Adrenal disorder NEC
+    255.9 Adrenal disorder NO
+DISORDERS OF THE EYE AND ADNEXA (360-379)
+365 Glaucoma
+    365.3 Corticosteroid-induced glaucoma
+V87.44 Hx inhaled steroid thrpy
+V87.45 Hx systemc steroid thrpy
+## MIMIC-III
+## ## DRGCODES.DRG_TYPE
+## ## ## HCFA codes
+## ## ## APR codes
+## ## ## MS codes
+## ## PRESCRIPTIONS.GSN
+## ## PRESCRIPTIONS.NCD
+
+
+
+
+##################
+## Chemotherapy ##
+##################
+## ICD-9-CM Vol. 1
+MISCELLANEOUS DIAGNOSTIC AND THERAPEUTIC PROCEDURES (87-99)
+99 Other nonoperative procedures
+    99.2 Inj or inf of other therapeutic or prophylactic substance
+        99.25 Inj or inf of cancer chemotherapeutic substance
+        99.28 Inj or infusion of BRM as an antineopl
+DISEASES OF THE BLOOD AND BLOOD-FORMING ORGANS (280-289)
+284 Aplastic anemia and other bone marrow failure syndromes
+    284.1 Pancytopenia
+        284.11 Antineo chemo indcd pancyt
+285 Other and unspecified anemias
+    285.3 Anemia d/t antineo chemo
+COMPLICATIONS OF SURGICAL AND MEDICAL CARE NOC (996-999)
+999 Complications of medical care, not elsewhere classified
+    999.8 Other and unspecified infusion and transfusion reaction
+        999.81 Extravstn vesicant chemo
+PERSONS ENCOUNTERING HEALTH SERVICES FOR SPECIFIC PROCEDURES AND AFTERCARE (V50-V59)
+V58 Encounter for other and unspecified procedures and aftercare
+    V58.1 Encounter for antineoplastic chemotherapy and immunotherapy
+        V58.11 Antineoplastic chemo enc
+        V58.12 Immunotherapy encounter
+PERSONS ENCOUNTERING HEALTH SERVICES IN OTHER CIRCUMSTANCES (V60-V69)
+V66 Convalescence and palliative care
+    V66.2 Chemotherapy convalescen
+    V67.2 Chemotherapy follow-up
+NEED FOR ISOLATION FOR OTHER ... HAZARDS & PROPHYLACTIC MEASURES (V07-V09)
+V07 Need for isolation and other prophylactic or treatment measures
+    V07.2 Prophylact immunotherapy
+    V07.3 Other prophylactic chemotherapy
+        V07.31 Prophylac fluoride admin
+        V07.39 Other prophylac chemothr
+OTHER SPECIFIED EXPOSURES AND HX PRESENTING HAZARDS TO HEALTH (V87)
+    V87 Other specified exposures and hx presenting hazards to health
+        V87.4 Personal history of drug therapy
+            V87.41 Hx antineoplastic chemo
+
+
+
+
+############################################
+## Renal replacement therapy on admission ##
+############################################
+
+
+
+
+#########################
+## Sepsis on admission ##
+#########################
+
+
+
