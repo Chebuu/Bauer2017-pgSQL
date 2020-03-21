@@ -41,6 +41,6 @@ for fdir in ${FDIRS[@]}; do
 
         echo "Building features..."
         echo -e "\t$PGS_CMD"
-        echo "PGOPTIONS=$PGOPTIONS" $PGS_CMD
+        eval "PGOPTIONS=$PGOPTIONS" $PGS_CMD
     done
 done

@@ -35,4 +35,4 @@ PGS_CMD=psql$(
 )
 
 echo "Building cohort..."
-echo "PGOPTIONS=$PGOPTIONS" $PGS_CMD
+eval "PGOPTIONS=$PGOPTIONS" $PGS_CMD

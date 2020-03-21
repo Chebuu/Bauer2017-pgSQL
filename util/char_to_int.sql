@@ -1,0 +1,12 @@
+CREATE OR REPLACE FUNCTION char_to_int(tval CHAR, xval INT DEFAULT 0) 
+RETURNS INT AS $$
+DECLARE ival INT DEFAULT NULL;
+BEGIN
+    BEGIN 
+        ival := tval::INT;
+    EXCEPTION WHEN OTHERS THEN
+        RETURN xval;
+    END;
+RETURN ival;
+END;
+$$ LANGUAGE plpgsql;

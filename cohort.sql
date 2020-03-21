@@ -120,7 +120,7 @@ WITH int_cev AS (
 )
 
 -- Flag treatment groups
-SELECT DISTINCT sty.subject_id, sty.icustay_id
+SELECT DISTINCT sty.subject_id, sty.hadm_id, sty.icustay_id
     , CASE  
         WHEN cht.min_int < (sty.intime + INTERVAL '2 days')
         THEN 0 ELSE 1

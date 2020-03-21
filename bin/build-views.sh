@@ -35,5 +35,5 @@ for sql in $(find lib -type f -iname "*.sql"); do
 
     echo "Building view..."
     echo -e "\t$PGS_CMD"
-    echo "PGOPTIONS=$PGOPTIONS" $PGS_CMD
+    eval "PGOPTIONS=$PGOPTIONS" $PGS_CMD
 done

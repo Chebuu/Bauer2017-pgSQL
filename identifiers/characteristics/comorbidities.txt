@@ -123,6 +123,8 @@ specificity which increases the concern about misclassification [23,24]."
 496 Chronic airway obstruction NOC
 
 
+
+
 ############
 ## Cancer ##
 ############
@@ -302,9 +304,11 @@ Lymph node spread               196*
 Secondary cancer                196*, 197*
 
 
-######################-
+
+
+#######################
 ## Metastatic cancer ##
-########################
+#######################
 ## ICD-9-CM Vol. 1
 CARCINOMA IN SITU (230-234)
 MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED SITES (190-199)

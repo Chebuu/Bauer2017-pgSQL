@@ -45,6 +45,6 @@ for fdir in ${FDIRS[@]}; do
             done
         )
         echo $(printf "Exporting %s..." $(basename $sql .sql))
-        echo "PGOPTIONS=$PGOPTIONS" $PGS_CMD -c '"COPY (select * from '$EXPORT_FROM') TO' "'$EXPORT_TO'" 'WITH CSV HEADER;"'
+        eval "PGOPTIONS=$PGOPTIONS" $PGS_CMD -c '"COPY (select * from '$EXPORT_FROM') TO' "'$EXPORT_TO'" 'WITH CSV HEADER;"'
     done
 done

@@ -5,10 +5,11 @@ Text files in each subdirectory are unstructured data used to locate samples in 
 
 Most files contain one or more of:
 
-- D_ITEMS.ITEMID
-- D_ITEMS.LABEL
-- Drug codes (NDC/GSN/ATC)
 - ICD-9 codes
+- D_ITEMS.ITEMID's
+- D_ITEMS.LABEL's
+- Drug codes (NDC/GSN/ATC)
+- Literature references
 
 Some files contain search terms used to match text-encoded features in MIMIC-III.
 
