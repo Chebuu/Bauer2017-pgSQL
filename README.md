@@ -44,11 +44,9 @@ The following excerpt describes the cohort selection criteria and experimental d
 > replacement therapy (RRT) on admission to the ICU, comorbidities, and the 
 > presence of sepsis on admission (see Supplemental Table 1).*
 
-## Directory tree
-Directory and file names are meant to roughly correspond to the sections and sub-sections of Table 1 in Bauer et al. 2017 with some obvious exceptions.
-
+## Cohort features
 #### **Table 1.** Bauer et al. 2017
-- [x] Age, year, mean ± SD  
+- [ ] Age, year, mean ± SD  
 - [ ] Sex, male (%)  
 - [ ] SAPS II score, mean ± SD  
 - [ ] SOFA score on admission, mean ± SD   
