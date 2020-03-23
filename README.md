@@ -54,42 +54,42 @@ Directory and file names are meant to roughly correspond to the sections and sub
 - [ ] SOFA score on admission, mean ± SD   
 - [ ] LOS before ICU, day, median [IQR]   
 - [ ] Type of admission, n (%)  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Surgical (non-trauma)  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Medical  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Trauma  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Other  
+    - [ ] Surgical (non-trauma)  
+    - [ ] Medical  
+    - [ ] Trauma  
+    - [ ] Other  
 - [ ] Source of admission, n (%)   
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Other hospital  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] ER/ambulance  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] OR/recovery room  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Hospital floor  
-- [ ] Other Comorbidities, n (%)  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] COPD  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Cancer  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Metastatic cancer  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Hematologic cancer  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Insulin-requiring diabetes mellitus  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Heart failure (NYHA III/IV)  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Chronic renal failure  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] HIV infection  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Cirrhosis  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Immunosuppression  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Steroid therapy  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Chemotherapy  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Renal replacement therapy on admission  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Sepsis on admission  
+    - [ ] Other hospital  
+    - [ ] ER/ambulance  
+    - [ ] OR/recovery room  
+    - [ ] Hospital floor  
+- [ ] Comorbidities, n (%)  
+    - [x] COPD  
+    - [x] Cancer  
+    - [x] Metastatic cancer  
+    - [x] Hematologic cancer  
+    - [ ] Insulin-requiring diabetes mellitus  
+    - [ ] Heart failure (NYHA III/IV)  
+    - [x] Chronic renal failure  
+    - [x] HIV infection  
+    - [x] Cirrhosis  
+    - [x] Immunosuppression  
+    - [x] Steroid therapy  
+    - [x] Chemotherapy  
+    - [ ] Renal replacement therapy on admission  
+    - [ ] Sepsis on admission  
 - [ ] Type of organ dysfunction, n (%) (alone or in combination)  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Respiratory  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Coagulation  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Hepatic  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] CNS  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Renal Cardiovascular  
+    - [ ] Respiratory  
+    - [ ] Coagulation  
+    - [ ] Hepatic  
+    - [ ] CNS  
+    - [ ] Renal Cardiovascular  
 - [ ] No. of organ dysfunctions, n (%)   
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] 0 organ  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] 1 organs  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] 2 organs  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] 3 organs  
-&nbsp;&nbsp;&nbsp;&nbsp; - [ ] >3 organs  
+    - [ ] 0 organ  
+    - [ ] 1 organs  
+    - [ ] 2 organs  
+    - [ ] 3 organs  
+    - [ ] >3 organs  
 - [ ] ICU LOS, day, median [IQR]   
 - [ ] Hospital LOS, day, median [IQR]   
 - [ ] ICU mortality, n (%)  
