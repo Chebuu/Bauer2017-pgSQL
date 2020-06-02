@@ -35,6 +35,7 @@ export-features:
 		-h $(or $(PGHOST), false) \
 		-p $(or $(PGPORT), false) \
 		-d "mimic"
+
 export:
 	make export-cohort
 	make export-features
@@ -52,7 +53,7 @@ clean:
 			&& exit 0; break;;
 		*) 
 			echo "No action taken. Please enter Yes or no."
-			exit 0;;
+			exit 1;;
 	esac
 	exit 1
 
