@@ -1,3 +1,21 @@
+
+-- ITEMID  LABEL
+-- -- PortaCath implies (doesn't guarantee) chemo
+-- 225375	"Indwelling Port (PortaCath) Cap Change"
+-- ...
+-- 225379	"Indwelling Port (PortaCath) Site Appear"
+-- 225380	"Indwelling Port (PortaCath)Tubing Change"
+-- ...
+-- 227780	"Impaired Skin  - Dressing Status #1"
+-- ...
+-- 227774	"Traction/Immobile #4"
+-- 227778	"Skeletal Traction #4 - Pounds"
+-- ...
+-- 228372	"Leg Raise Result (NICOM)"
+-- 228377	"SVI Change"
+-- 228378	"TFCd (NICOM)"
+-- 228379	"TFCd0 (NICOM)"
+
 DROP MATERIALIZED VIEW IF EXISTS comorbidities CASCADE;
 CREATE MATERIALIZED VIEW comorbidities AS
 

@@ -1,0 +1,11 @@
+-- 228302	"CAM-ICU RASS LOC"
+
+-- 228300	"CAM-ICU MS change"
+-- 228301	"CAM-ICU Inattention"
+-- 228302	"CAM-ICU RASS LOC"
+-- 228303	"CAM-ICU Disorganized thinking"
+-- ...
+-- 228334	"CAM-ICU Altered LOC"
+-- 228335	"CAM-ICU Disorganized thinking"
+-- 228336	"CAM-ICU Inattention"
+-- 228337	"CAM-ICU MS Change"

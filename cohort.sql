@@ -7,6 +7,19 @@
 -- -- -- -- pairs (i.e. duration of intubation) should be counted as a 
 -- -- -- -- single intubation event.
 
+-- -- Other identifiers
+-- ITEMID  LABEL
+-- 418	    "Intubation Date"
+-- 182	    "Extubation Date"
+-- ...
+-- 225291	"Indication (Intubation)"
+-- 225267	"Difficult to Intubate"
+-- 225271	"Induction/Drugs/Doses (Intubation)"
+-- ...
+-- 225307	"Oral ETT"
+-- 225308	"Nasal ETT"
+
+
 DROP MATERIALIZED VIEW IF EXISTS cohort CASCADE;
 CREATE MATERIALIZED VIEW cohort AS
 

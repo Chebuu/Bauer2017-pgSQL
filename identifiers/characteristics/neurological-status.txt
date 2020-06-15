@@ -1,0 +1,647 @@
+-- -- select distinct on (itemid) itemid, label from d_items where label ilike '%neuro%'
+
+
+-- 3397	"EEG"
+-- 5966	"Continuous EEG q1hr"
+-- 6109	"EEG run"
+-- 6828	"Q1H EEG TRACE"
+-- 6854	"EEG (burst/min)"
+-- 7060	"Cont. EEG"
+-- 7565	"Cont EEG"
+-- 7861	"EEG/Cont"
+-- 221223	"EEG"
+
+-- 461	"Neuro Drain Drainage"
+-- 462	"Neuro Drain [Level]"
+-- 463	"Neuro Drain Status"
+-- 464	"Neuro Drain Type"
+
+-- 2986	"neuro drain type 2"
+
+-- 8443	"Neuro Drain [Location]"
+
+-- 41187	"Neuro Angio Intake"
+-- 41190	"Neuro Angio Output"
+-- 42413	"NEURO-RAD IN"
+-- 42417	"NEURO-RAD OUT"
+-- 44015	"Neuro Angio Outake"
+
+-- 223926	"Neuro Drain #1 Type"
+-- 223930	"Neuro Drain #1 Level"
+-- 223931	"Neuro Drain #1 Status"
+-- 223932	"Neuro Drain #1 Drainage"
+-- 224380	"Neuro Waveform Appearance"
+-- 224764	"Neuro Drain Location"
+-- 224765	"Neuro Drain Head of Bed"
+-- 227031	"Non-Operative Neurologic (NEUROLOGIC)"
+-- 227046	"Post-Operative Neurologic (NEUROLOGIC)"
+-- 227122	"Neuro Drain Landmark"
+-- 227591	"Neuro Drain Landmark"
+-- 227981	"Neuro Drain #2 Type"
+-- 227982	"Neuro Drain #2 Status"
+-- 227983	"Neuro Drain #2 Drainage"
+-- 227984	"Neuro Drain #2 Level"
+-- 227985	"Neuro Drain #1 Landmark"
+-- 227986	"Neuro Drain #2 Landmark"
+-- 228402	"Neurological Symptoms"
+
+
+-- 4262	"Neuro consult"
+-- 4617	"Neurology consult"
+-- 4902	"neuro consult"
+
+-- 225070	"Unable to assess psychological"
+
+-- 197	"Follows Commands"
+-- 223910	"Follows Commands"
+-- 228397	"Commands Response"
+-- 228398	"Commands"
+
+-- 130	"Communication"
+-- 223903	"Communication"
+
+-- 3331	"Blink Reflex [Left]"
+-- 8509	"Blink Reflex [Right]"
+
+-- 184	"Eye Opening"
+-- 220739	"GCS - Eye Opening"
+
+-- 1217	"vision"
+-- 6072	"vision fields"
+
+-- 1439	"Visual Disturbances"
+-- 1927	"6.visual Disturbanc"
+-- 1939	"8. Visual Disturb."
+-- 2393	"VISUAL FIELDS"
+-- 3137	"Visual Field CheckL)"
+-- 3138	"Visual field checkR)"
+-- 223819	"Visual Disturbances"
+-- 225087	"Visual / hearing deficit"
+-- 228400	"Visual Field Cut"
+
+-- 648	"Speech"
+-- 1434	"Slurred Speech"
+-- 223828	"Slurred Speech"
+-- 223902	"Speech"
+-- 228414	"Speech"
+
+-- 3449	"Grasp"
+-- 5935	"L Hand Grasp"
+-- 5936	"R Hand Grasp"
+
+-- 453	"Motor Deficits"
+-- 454	"Motor Response"
+-- 223901	"GCS - Motor Response"
+-- 226757	"GCSMotorApacheIIValue"
+-- 227012	"GCSMotor_ApacheIV"
+-- 227120	"Motor Deficit"
+-- 228404	"Motor L Arm"
+-- 228405	"Motor L Leg"
+-- 228406	"Motor R Arm"
+-- 228407	"Motor R Leg"
+
+-- 423	"LL Strength/Movement"
+-- 426	"LU Strength/Movement"
+-- 590	"RL Strength/Movement"
+-- 596	"RU Strength/Movement"
+-- 44198	"Promote 2/3 strength"
+-- 44392	"impact 1/2 strength"
+-- 44840	"impact 2/3 strength"
+-- 44958	"1/2strength respalor"
+-- 45832	"1/2strength impact"
+-- 223917	"RU Strength/Movement"
+-- 223918	"RL Strength/Movement"
+-- 223919	"LU Strength/Movement"
+-- 223920	"LL Strength/Movement"
+-- 228409	"Strength L Arm"
+-- 228410	"Strength L Leg"
+-- 228411	"Strength R Leg"
+-- 228412	"Strength R Arm"
+
+
+-- 1215	"swallow"
+-- 3643	"Swallow Study"
+-- 225118	"Difficulty swallowing"
+-- 228345	"OCAT - Swallow"
+
+-- 208	"Gag Reflex"
+-- 223904	"Gag Reflex"
+
+-- 1216	"tongue"
+-- 2808	"tongue midline"
+-- 3136	"Tongue midline"
+-- 6324	"Tongue Deviation"
+-- 228343	"OCAT - Lips Tongue Gums Palate"
+
+-- 1998	"Facial Droop"
+-- 2807	"facial droop"
+-- 6322	"Face Droop"
+-- 228399	"Facial Droop"
+
+-- 227837	"Toileting"
+-- 227849	"Toilet"
+
+-- 227850	"Commode"
+
+-- 227956	"Urinal/Bedpan"
+
+-- 1484	"Risk for Falls"
+-- 223754	"Risk for Falls"
+-- 225094	"History of slips / falls"
+-- 225474	"Fall"
+-- 227341	"History of falling (within 3 mnths)"
+
+-- 629	"Seizure Activity"
+-- 630	"Seizure Duration"
+-- 1069	"seizure activity"
+-- 1119	"seizure pads"
+-- 1433	"Seizure"
+-- 1595	"Seizure Pads"
+-- 2021	"Seizure Precautions"
+-- 3545	"O2 Sat W/Seizure"
+-- 3612	"Seizure [Activity]"
+-- 3676	"VS Change W/Seizure"
+-- 7615	"seizure pads on bed"
+-- 8272	"Seizure pads"
+-- 8533	"Seizure [Duration, seconds]"
+-- 223824	"Seizure"
+-- 223923	"Seizure Activity"
+-- 223925	"Seizure Duration"
+-- 227626	"Seizure Pads"
+-- 228413	"Seizure Activity"
+
+-- 7691	"Sz Pads"
+
+227346	"Mental status"
+
+465	"Neuro Symptoms"
+223921	"Neuro Symptoms"
+228402	"Neurological Symptoms"
+
+225135	"Consults"
+1125	"Service Type"
+
+4262	"Neuro consult"
+
+228345	"OCAT - Swallow"
+
+228394	"Orientation to Person"
+228395	"Orientation to Place"
+228396	"Orientation to Time"
+228397	"Commands Response"
+228398	"Commands"
+228399	"Facial Droop"
+228400	"Visual Field Cut"
+228401	"Pronator Drift"
+228402	"Neurological Symptoms"
+228404	"Motor L Arm"
+228405	"Motor L Leg"
+228406	"Motor R Arm"
+228407	"Motor R Leg"
+228409	"Strength L Arm"
+228410	"Strength L Leg"
+228411	"Strength R Leg"
+228412	"Strength R Arm"
+228413	"Seizure Activity"
+228414	"Speech"
+228415	"Corneal Reflex Left"
+228416	"Corneal Reflex Right"
+
+228297	"Daily Wake Up Deferred"
+228298	"Daily Wake Up"
+
+228332	"Delirium assessment"
+
+628	"Sedation Score"
+
+225133	"Discharge needs"
+227943	"Anticipated Discharge"
+227839	"Home Management"
+227840	"Money Management"
+227841	"Community Integration"
+
+227830	"Self Feeding"
+227831	"Grooming"
+
+227837	"Toileting"
+
+227848	"Transfer"
+227849	"Toilet"
+227850	"Commode"
+227851	"Shower / Tub"
+
+227853	"Other (Activity); Specify"
+227854	"Weight Bearing Status"
+227855	"Assistive Device"
+
+227881	"Pain (0-10)"
+3449	"Grasp"
+227905	"Patient agrees with the above goals and is willing to participate in the rehabilitation program"
+
+224380	"Neuro Waveform Appearance"
+
+-- If they spont they brainstem
+224421	"Spont Vt"
+224422	"Spont RR"
+
+-- Self-extubation implies cortex
+225468	"Unplanned Extubation (patient-initiated)"
+225477	"Unplanned Extubation (non-patient initiated)"
+
+1067	"apnea test"
+8500	"Apnea [Duration]"
+1567	"apnea"
+1684	"APNEA"
+
+465	"Neuro Symptoms"
+
+224669	"Restlessness"
+
+3611	"Sedation"
+628	"Sedation Score"
+228299	"Goal Richmond-RAS Scale"
+
+628	"Sedation Score"
+1090	"Ramsey SedationScale"
+
+228060	"Conscious sedation used (Bronch)"
+
+228442	"BIS - EMG"
+228443	"BIS - SQI"
+228444	"BIS Index Range"
+
+3618	"Sleep"
+
+4347	"Hearing screen"
+4320	"hearing screen"
+
+5941	"Feeding Team Eval"
+
+3643	"Swallow Study"
+208	"Gag Reflex"
+
+225118	"Difficulty swallowing"
+
+3687	"Vomiting"
+41722	"vomitus"
+
+225120	"Appetite"
+225122	"Special diet"
+
+
+-- Understand diet escalation
+30080	"Nutrihep"
+30081	"Boost"
+30082	"Boost Plus"
+30083	"Boost High Protein"
+30084	"Isocal"
+30085	"Isocal HN"
+30086	"Ultracal"
+30087	"Replete"
+30088	"Replete w/fiber"
+30089	"Promod"
+30164	"Criticare HN"
+30165	"Promote"
+30166	"Promote w/fiber"
+
+30090	"Tube Feeding"
+
+-- Free water IV is a party foul, implies tube-feed
+41581	"Water bolus"
+46169	"free water bolus."
+40702	"free water infusion"
+41416	"free h2o boluses"
+41582	"free h20 bolus"
+41580	"free h2o bolus"
+41721	"fee water bolus"
+30058	"Free Water Bolus"
+41430	"free water boluses"
+41619	"frfee water boluses"
+40872	"free water"
+40712	"free H20"
+40778	"Free H2O"
+41915	"FREE WATER"
+
+30096	"TPN w/Lipids"
+
+30191	"TPN D5.0"
+30192	"TPN D7.0"
+30193	"TPN D7.5"
+30194	"TPN D9.0"
+30195	"TPN D2.5"
+30196	"TPN D10.0"
+...
+30208	"Lipids 20%"
+
+-- Br Milk via NG implies child/exclude
+30221	"Br Milk FS NG" -- (30329	"Prosobee" 30335	"Enfamil Powder" 30336	"NeoSure" 30337	"NeoSure Powder")
+30225	"PE 20 FS NG"
+30226	"PE 22 FS NG"
+30227	"PE 24 FS NG"
+30230	"E 20 3/4s NG"
+30231	"E 20 FS NG"
+...
+30243	"Prog FS NG"
+
+46048	"PE30 OG"
+45997	"PE28 PG"
+45998	"PE 28 NG"
+45999	"PE 28 PO"
+46002	"PE 26 cals NG"
+46003	"PE 26 cals PO"
+46004	"PE 26cals NG"
+46005	"PE 26cals PO"
+
+46045	"PE26 po"
+46042	"PE 28 po"
+
+154	"Diet Type"
+3426	"Feeding"
+3427	"Feeding Tube Check"
+3428	"Feeding Tube Loc"
+3429	"Feeding Tube Size"
+3430	"Feeding Tube Type"
+3522	"NG Feedings"
+3523	"NG Tube Taped at:"
+3524	"NGT Placement"
+
+40637	"ngt meds"
+7614	"ngt residual"
+
+3547	"OG/NG Residual"
+
+30095	"TF Residual"
+7648	"TF residual/G-tube"
+7649	"TF residual/J-Tube"
+
+43830	"Gastric aspirate"
+
+30059	"GT Flush"
+
+40668	"PEG TUBE"
+
+43441	"G-tube placement"
+
+-- PCA use implies GCS > 8
+493	"PCA 1 Hr Limit (mg)"
+494	"PCA Basal Rate"
+495	"PCA Bolus"
+496	"PCA Dose"
+497	"Patient controlled analgesia (PCA) [Inject]"
+498	"PCA Lockout (Min)"
+499	"PCA Medication"
+500	"PCA Total Dose"
+8449	"Patient controlled analgesia (PCA) [Attempt]"
+
+-- Oral meds (not tubed) implies swallow
+8454	"Pain Management [Route/Status #2]"
+
+--- Orthostatis BP implies pt follows commands
+8444	"Orthostat BP sitting [Diastolic]"
+8445	"OrthostatBP standing [Diastolic]"
+8446	"Orthostatic BP lying [Diastolic]"
+
+1998	"Facial Droop"
+2807	"facial droop"
+2808	"tongue midline"
+1999	"Pronator Drift"
+
+3694	"Work of Breathing"
+3695	"Yawning"
+224672	"Yawning"
+6030	"Face"
+
+6007	"badbath"
+
+2984	"Camino Bolt"
+
+226	"ICP"
+227989	"Intra Cranial Pressure #2"
+227990	"Intra Cranial Pressure #2 Alarm - High"
+227991	"Intra Cranial Pressure #2 Alarm - Low"
+
+224764	"Neuro Drain Location"
+224765	"Neuro Drain Head of Bed"
+
+462	"Neuro Drain [Level]"
+463	"Neuro Drain Status"
+464	"Neuro Drain Type"
+
+40537	"Cerebral Drain Subdural"
+225456	"Ventricular Drain"
+
+1420	"Aggitation"
+1421	"Anxiety"
+1422	"Ataxia"
+1423	"Auditory Disturbance"
+1424	"CIWA Sum Total"
+1425	"Daily Wake Up"
+1426	"Drowsiness"
+1428	"Headache"
+1429	"Insomnia"
+1430	"Nausea and Vomiting"
+1431	"Orient/Clouding Sens"
+1432	"Paroxysmal Sweats"
+1433	"Seizure"
+1434	"Slurred Speech"
+1435	"Sustained Nystamus"
+1436	"Tactile Disturbances"
+1439	"Visual Disturbances"
+1484	"Risk for Falls"
+1437	"Tremor"
+
+
+228229	"PAR-Activity"
+228230	"PAR-Circulation"
+228231	"PAR-Consciousness"
+228232	"PAR-Oxygen saturation"
+228233	"PAR-Remain sedated"
+228234	"PAR-Respiration"
+
+
+1922	"1.Nausea &vomitting"
+1923	"2.tactile Disturban"
+1924	"3.Tremor"
+1925	"4.Auditory disturban"
+1926	"5.Paroxysmal sweats"
+1927	"6.visual Disturbanc"
+1928	"7.anxiety"
+1929	"8.headach,fullness"
+1930	"9.agitation"
+1931	"Total CIWA scale"
+
+1932	"1. Nausea and Vomit."
+1933	"2.Tremor"
+1934	"3.Paroxysmal Sweats"
+1935	"4. Anxiety"
+1936	"5. Auditory Disturb."
+1937	"6. Agitation"
+1938	"7. Tactile Disturb."
+1939	"8. Visual Disturb."
+1940	"9. H/A Head fullness"
+1941	"Total CIWA"
+
+1847	"CIWA scale"
+
+224676	"Nausea and Vomiting (CINA)"
+224677	"Tremor (CINA)"
+
+223817	"Agitation"
+
+1213	"shoulder shrug r/l"
+1214	"smile"
+1215	"swallow"
+1216	"tongue"
+1217	"vision"
+
+3519	"Muscle Tone"
+3521	"Myoclonic Jerks"
+
+224084	"Activity"
+224085	"Assistance Device"
+224086	"Activity Tolerance"
+
+1903	"OOB TO CHAIR"
+
+227847	"Sit to Stand"
+
+648	"Speech"
+723	"Verbal Response"
+
+224756	"Response"
+224758	"RUE Sensation"
+224759	"LUE Sensation"
+224762	"LLE Sensation"
+
+432	"Level of Conscious"
+620	"Responds to Stimuli [Type]"
+479	"Orientation"
+
+641	"Sitter"
+224070	"Sitter"
+
+605	"Reason For Restraint"
+7626	"mitts"
+
+
+227663	"Immobilizer"
+227664	"Immobilizer Device"
+227667	"Reason for Immobilizer"
+227666	"Immobilizer Location"
+
+227669	"Side Rails (Restraint)"
+227670	"Violent Restraints"
+227671	"Non-Violent Restraints"
+227672	"Violent Restraints Ordered"
+227673	"Non-Violent Restraints Ordered"
+227676	"Reason for Restraints (Non-Violent)"
+227677	"Reason for Restraint/Seclusion (Violent)"
+227678	"Restraint Device (Non-Violent)"
+227679	"Restraint Device (Violent)"
+227680	"Restraint Location_V2"
+227681	"Less Restrictive Measures_V1"
+227682	"Restraints Evaluated_V2"
+...
+227684	"Safety Measures"
+227700	"Safety Measures"
+227969	"Safety Measures_U_1"
+
+227954	"Status and Comfort"
+227955	"Food and Fluid"
+227956	"Urinal/Bedpan"
+
+227957	"Signs of Injury from Intervention"
+227958	"Less Restrictive Measures"
+
+3612	"Seizure [Activity]"
+8533	"Seizure [Duration, seconds]"
+1069	"seizure activity"
+629	"Seizure Activity"
+630	"Seizure Duration"
+
+2021	"Seizure Precautions"
+1231	"side rails padded"
+7615	"seizure pads on bed"
+1595	"Seizure Pads"
+7691	"Sz Pads"
+
+184	"Eye Opening"
+197	"Follows Commands"
+198	"GCS Total"
+
+227674	"Face to Face Eval (Non-Violent)"
+227675	"Face to Face Eval (Violent)"
+
+8474	"Responds to Stimuli [Value]"
+3606	"Response To Stimuli"
+
+590	"RL Strength/Movement"
+596	"RU Strength/Movement"
+
+8509	"Blink Reflex [Right]"
+224670	"Lacrimation"
+
+135	"Corneal Reflex [Right]"
+224730	"Corneal Reflex Right"
+224731	"Corneal Reflex Left"
+
+
+224671	"Pupils"
+224733	"Pupil Size Left"
+3593	"Pupil Reactivity [Left]"
+8530	"Pupil Reactivity [Right]"
+584	"Pupil Response [Right]"
+8466	"Pupil Response [Left]"
+8467	"Pupil Size [Left]"
+
+225189	"Incentive Spirometry"
+
+7209	"COUGH/DEEP BREATHING"
+225188	"Cough/Deep Breath"
+
+136	"Cough Effort"
+137	"Cough Reflex"
+138	"Cough Type"
+139	"Cough/Deep Breathe"
+223991	"Cough Effort"
+223992	"Cough Type"
+
+223990	"Respiratory Effort"
+616	"Respiratory Effort"
+7439	"walking hr"
+7440	"walking o2 sat"
+
+227343	"Ambulatory aid"
+227345	"Gait/Transferring"
+
+227654	"Reflexes LE"
+227655	"Reflexes UE"
+
+7470	"Startle Reflex"
+
+-- I think these are fall risk
+227348	"Low risk (25-50) interventions"
+227349	"High risk (>51) interventions"
+
+225106	"ETOH"
+225108	"Tobacco use"
+225110	"Recreational drug use"
+
+225131	"Teaching directed toward"
+
+165	"Education Barrier"
+168	"Education Method"
+169	"Education Readiness"
+224072	"Education Learner"
+224073	"Education Topic"
+224075	"Education Readiness"
+224076	"Education Barrier"
+224077	"Education Method"
+224078	"Education Handout"
+224079	"Education Response"
+
+225129	"Unable to assess teaching / learning needs"
+225105	"Unable to assess habits"
+225112	"Unable to assess pain"
+225113	"Currently experiencing pain"
+225117	"Unable to assess nutrition / education"

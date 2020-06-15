@@ -1,0 +1,30 @@
+-- 227428	"SOFA Score"
+
+-- 226738	"AgeApacheIIScore"
+-- 226749	"ChpApacheIIScore"
+-- 226751	"CreatinineApacheIIScore"
+-- 226753	"DswfApacheScore"
+-- 226755	"GcsApacheIIScore"
+
+-- 87	"Braden Score"
+
+-- 4490	"NAS Score"
+-- 5927	"NAS score"
+
+-- 226760	"HCO3Score"
+-- 226761	"HematocritApacheIIScore"
+
+-- 226763	"HrApacheIIScore"
+-- 226765	"MapApacheIIScore"
+-- 226767	"OxygenApacheIIScore"
+-- 226768	"PhApacheIIScore"
+-- 226771	"PotassiumApacheIIScore"
+-- 226773	"RrApacheIIScore"
+-- 226775	"SodiumApacheIIScore"
+-- 226777	"TempApacheIIScore"
+-- 226779	"WbcApacheIIScore"
+-- 226980	"AgeScore_ApacheIV"
+-- 226982	"AlbuminScore_ApacheIV"
+-- 226999	"BiliScore_ApacheIV"
+-- 227001	"BunScore_ApacheIV"
+-- 227004	"ChronicScore_ApacheIV"

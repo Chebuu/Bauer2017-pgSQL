@@ -1,0 +1,3 @@
+[submodule "lib/MIMIC-III-scripts"]
+	path = lib/MIMIC-III-scripts
+	url = https://github.com/Chebuu/MIMIC-III-scripts
