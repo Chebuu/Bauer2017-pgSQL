@@ -6,7 +6,7 @@ This repo is intended to serve as a sub-module and central resource for PL/pgSQL
 [Bauer PR, Gajic O, Nanchal R, Kashyap R, Martin-Loeches I, Sakr Y, et al. *Association between timing of intubation and outcome in critically ill patients: A secondary analysis of the ICON audit.* Journal of Critical Care. 2017;42: 1–5. doi:10.1016/j.jcrc.2017.06.010](http://doi.org/10.1016/j.jcrc.2017.06.010)
 
 ## Build Instructions
-Included is a Makefile with targets to build the dataset using GNU Make. 
+Included is a Makefile with targets to build and export the dataset. The resulting .csv files are saved in the **data/cohort-build** directory:
 
 All build targets require that the following Bash environment variables be set:
 
@@ -15,18 +15,13 @@ export PGHOST=127.0.0.1
 export PGPORT=5432
 export PGOPTIONS=--search_path=mimiciii
 ```
-To build and export the dataset run the following target. The resulting .csv files are saved in the **data/cohort-build** directory:
+To build and export the dataset run the following target. 
 
 ```bash
 make all
 ```
 
 The *all* target creates several intermediate materialized views that are required to build the dataset (see the **lib/** directory), however they are not exported to .csv files. The cohort subset is then built and exported as .csv (see **cohort.sql**). Patient IDs from the cohort subset are then used to build the features subsets (see the **clinical-features/**, **demographics/**, and **severity-scores/** directories).
-
-## Dependent repos
-The following repositories depend on this repository as a sub-module:  
-- [Bauer2017](https://github.com/chebuu/Bauer2017)
-- [Timing-Intubation](https://github.com/chebuu/Timing-Intubation)
 
 ## Experimental design
 The following excerpt describes the cohort selection criteria and experimental design of Bauer et al. 2017.
