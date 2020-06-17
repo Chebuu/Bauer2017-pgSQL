@@ -41,7 +41,7 @@ WITH int_cev AS (
     WHERE  (pev.itemid = 224385 AND pev.value = 1.0) -- D_ITEMS.label = 'Intubation'
     GROUP BY pev.icustay_id
 )
--- Earliest recorded ETT presence (all hospital)
+-- Earliest recorded ETT presence 
 , ett_cev AS (
     SELECT icustay_id
         , MIN(charttime) as min_chart
@@ -71,8 +71,8 @@ WITH int_cev AS (
 -- Earliest recorded extubation (all hospital)
 , xtt_cev AS (
     SELECT icustay_id
-        , MIN(charttime) as min_chart
-        , MIN(storetime) as min_store
+        ,MIN(charttime) as min_chart
+        ,MIN(storetime) as min_store
     FROM chartevents cev
     WHERE cev.itemid IN (40, 223836, 226732) -- D_ITEMS.label = ['Airway Type', 'Airway Type', 'O2 Delivery Device(s)']
         AND cev.value NOT ILIKE 
